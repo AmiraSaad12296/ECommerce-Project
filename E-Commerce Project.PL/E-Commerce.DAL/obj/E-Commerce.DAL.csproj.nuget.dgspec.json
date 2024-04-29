@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MVC\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {}
+    "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {}
   },
   "projects": {
-    "D:\\MVC\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {
+    "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MVC\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
+        "projectUniqueName": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
         "projectName": "E-Commerce.DAL",
-        "projectPath": "D:\\MVC\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
+        "projectPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
         "packagesPath": "C:\\Users\\Amira\\.nuget\\packages\\",
-        "outputPath": "D:\\MVC\\E-Commerce Project.PL\\E-Commerce.DAL\\obj\\",
+        "outputPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Amira\\AppData\\Roaming\\NuGet\\NuGet.Config",

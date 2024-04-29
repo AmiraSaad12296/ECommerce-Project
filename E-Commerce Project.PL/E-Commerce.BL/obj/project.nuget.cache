@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Zl4q6RONXwTCRqOLr/YFZC0qEGqxcPks3BFFEof39JJFUxlwYz6iUeEpE+qMZ4jd2xJ2cd7OjHdTOX8qOKgiw==",
+  "dgSpecHash": "CNqZ8JbaFrDkOz7/QV0HmXTnXOltU0GqT05GUQTI8tprGaqdOVZgeM+IgrwFbDQuqkcGP/GZHgCYx1SF9fsOTw==",
   "success": true,
-  "projectFilePath": "D:\\MVC\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj",
+  "projectFilePath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amira\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Amira\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

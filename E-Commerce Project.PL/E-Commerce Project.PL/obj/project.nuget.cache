@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oGYG7o1NwfN/6erACx+6imyGFuxC2h92O4oIcnRESWRhPb4GG6Tx+trKNAT/Imf9bphDSwdqvOAymqiwG1upeA==",
+  "dgSpecHash": "kAy4+OpjrqmZBew0fldmfa6yMBAuKfS41cvUwzlL5suqt0dp3sntyH6k3H02jp/YIkAoviQG9pthx/TlHZk3JA==",
   "success": true,
-  "projectFilePath": "D:\\MVC\\E-Commerce Project.PL\\E-Commerce Project.PL\\E-Commerce Project.PL.csproj",
+  "projectFilePath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\E-Commerce Project.PL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amira\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Amira\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -17,7 +17,7 @@
     "C:\\Users\\Amira\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",
     "C:\\Users\\Amira\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.4\\microsoft.entityframeworkcore.analyzers.8.0.4.nupkg.sha512",
     "C:\\Users\\Amira\\.nuget\\packages\\microsoft.entityframeworkcore.proxies\\8.0.4\\microsoft.entityframeworkcore.proxies.8.0.4.nupkg.sha512",
-    "C:\\Users\\Amira\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.3\\microsoft.entityframeworkcore.relational.8.0.3.nupkg.sha512",
+    "C:\\Users\\Amira\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.4\\microsoft.entityframeworkcore.relational.8.0.4.nupkg.sha512",
     "C:\\Users\\Amira\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.3\\microsoft.entityframeworkcore.sqlserver.8.0.3.nupkg.sha512",
     "C:\\Users\\Amira\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Amira\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",

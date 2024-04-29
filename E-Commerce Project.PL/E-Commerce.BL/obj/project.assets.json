@@ -3055,11 +3055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MVC\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj",
+      "projectUniqueName": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj",
       "projectName": "E-Commerce.BL",
-      "projectPath": "D:\\MVC\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj",
+      "projectPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj",
       "packagesPath": "C:\\Users\\Amira\\.nuget\\packages\\",
-      "outputPath": "D:\\MVC\\E-Commerce Project.PL\\E-Commerce.BL\\obj\\",
+      "outputPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Amira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3076,8 +3076,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\MVC\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {
-              "projectPath": "D:\\MVC\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj"
+            "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {
+              "projectPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj"
             }
           }
         }
