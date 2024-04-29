@@ -1,0 +1,80 @@
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\appsettings.Development.json
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\appsettings.json
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.exe
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.deps.json
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.runtimeconfig.json
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.pdb
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Azure.Core.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Azure.Identity.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Castle.Core.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.BL.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.DAL.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.BL.pdb
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.DAL.pdb
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.csproj.AssemblyReference.cache
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.AssemblyInfoInputs.cache
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.AssemblyInfo.cs
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.csproj.CoreCompileInputs.cache
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.MvcApplicationPartsAssemblyInfo.cs
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.MvcApplicationPartsAssemblyInfo.cache
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.build.json
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.development.json
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.E-Commerce Project.PL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.build.E-Commerce Project.PL.props
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce Project.PL.props
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-Commerce Project.PL.props
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\scopedcss\bundle\E-Commerce Project.PL.styles.css
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commer.2420506F.Up2Date
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\refint\E-Commerce Project.PL.dll
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.pdb
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.genruntimeconfig.cache
+D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\ref\E-Commerce Project.PL.dll
