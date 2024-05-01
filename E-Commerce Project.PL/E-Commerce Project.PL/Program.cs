@@ -1,6 +1,8 @@
-
+using E_Commerce.BL.DTO;
+using E_Commerce.BL.UOW;
 using E_Commerce.DAL.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
 
 namespace E_Commerce_Project.PL
 {
@@ -15,9 +17,11 @@ namespace E_Commerce_Project.PL
             builder.Services.AddControllers().AddNewtonsoftJson(op=>op.SerializerSettings.ReferenceLoopHandling=Newtonsoft.Json.ReferenceLoopHandling.Ignore);
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+            
             builder.Services.AddDbContext<EcommerceProjectContext> (op=>op.UseLazyLoadingProxies().UseSqlServer(builder.Configuration.GetConnectionString("EC")));
-             var app = builder.Build();
+            builder.Services.AddScoped<UnitOfWorks>();
+
+            var app = builder.Build();
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())

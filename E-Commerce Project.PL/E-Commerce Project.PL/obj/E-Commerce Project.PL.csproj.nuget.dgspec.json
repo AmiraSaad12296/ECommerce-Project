@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\E-Commerce Project.PL.csproj": {}
+    "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\E-Commerce Project.PL.csproj": {}
   },
   "projects": {
-    "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\E-Commerce Project.PL.csproj": {
+    "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\E-Commerce Project.PL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\E-Commerce Project.PL.csproj",
+        "projectUniqueName": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\E-Commerce Project.PL.csproj",
         "projectName": "E-Commerce Project.PL",
-        "projectPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\E-Commerce Project.PL.csproj",
-        "packagesPath": "C:\\Users\\Amira\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\obj\\",
+        "projectPath": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\E-Commerce Project.PL.csproj",
+        "packagesPath": "C:\\Users\\ELFAT7\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Amira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ELFAT7\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj": {
-                "projectPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj"
+              "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj": {
+                "projectPath": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj"
               }
             }
           }
@@ -56,6 +56,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -77,21 +81,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj": {
+    "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj",
+        "projectUniqueName": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj",
         "projectName": "E-Commerce.BL",
-        "projectPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj",
-        "packagesPath": "C:\\Users\\Amira\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\obj\\",
+        "projectPath": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj",
+        "packagesPath": "C:\\Users\\ELFAT7\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Amira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ELFAT7\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -105,8 +109,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {
-                "projectPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj"
+              "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {
+                "projectPath": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj"
               }
             }
           }
@@ -141,21 +145,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {
+    "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
+        "projectUniqueName": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
         "projectName": "E-Commerce.DAL",
-        "projectPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
-        "packagesPath": "C:\\Users\\Amira\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\obj\\",
+        "projectPath": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
+        "packagesPath": "C:\\Users\\ELFAT7\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Amira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ELFAT7\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -221,7 +225,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

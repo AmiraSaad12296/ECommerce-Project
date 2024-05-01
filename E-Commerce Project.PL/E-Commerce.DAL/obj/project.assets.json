@@ -4389,19 +4389,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Amira\\.nuget\\packages\\": {}
+    "C:\\Users\\ELFAT7\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
+      "projectUniqueName": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
       "projectName": "E-Commerce.DAL",
-      "projectPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
-      "packagesPath": "C:\\Users\\Amira\\.nuget\\packages\\",
-      "outputPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\obj\\",
+      "projectPath": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
+      "packagesPath": "C:\\Users\\ELFAT7\\.nuget\\packages\\",
+      "outputPath": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Amira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ELFAT7\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4467,7 +4467,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
