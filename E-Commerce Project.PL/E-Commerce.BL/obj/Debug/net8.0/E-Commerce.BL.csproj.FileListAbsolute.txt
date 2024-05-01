@@ -45,3 +45,19 @@ D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\ob
 D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\refint\E-Commerce.BL.dll
 D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.pdb
 D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\ref\E-Commerce.BL.dll
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.BL.deps.json
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.BL.dll
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.BL.pdb
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.DAL.dll
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.DAL.pdb
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.csproj.AssemblyReference.cache
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.AssemblyInfoInputs.cache
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.AssemblyInfo.cs
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.csproj.CoreCompileInputs.cache
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.sourcelink.json
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commer.CD690944.Up2Date
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.dll
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\refint\E-Commerce.BL.dll
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.pdb
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\ref\E-Commerce.BL.dll
