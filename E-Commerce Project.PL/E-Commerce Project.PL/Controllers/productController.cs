@@ -93,7 +93,7 @@ namespace E_Commerce_Project.PL.Controllers
         [SwaggerResponse(200, "if product deleted", Type = typeof(void))]
         public ActionResult Deleteid(int id)
         {
-            unit.ProductsRepository.delete(id); 
+            unit.ProductsRepository.delete(id);
             unit.savechanges();
             return Ok();
         }
@@ -105,7 +105,7 @@ namespace E_Commerce_Project.PL.Controllers
         public ActionResult Update([FromBody] Product product)
         {
            
-            unit.ProductsRepository.update(product);  
+            unit.ProductsRepository.update(product);
             unit.savechanges();
             return Ok();
 

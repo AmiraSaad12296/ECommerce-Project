@@ -241,3 +241,11 @@ D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Proje
 D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.pdb
 D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.genruntimeconfig.cache
 D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\ref\E-Commerce Project.PL.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll

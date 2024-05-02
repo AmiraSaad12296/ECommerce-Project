@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace E_Commerce.BL.DTO
 {
-    internal class Test
+    public class LoginDTO
     {
+        public string UserName { get; set; }
+        public string Password { get; set; }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using E_Commerce.DAL.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -43,9 +44,11 @@ namespace E_Commerce.BL.Repository
             db.Set<TEntity>().Remove(obj);
         }
 
-        public void save()
+        public User FindName(string username)
         {
-            db.SaveChanges();
+            return db.Users.FirstOrDefault(u => u.UserName == username);
         }
+
+       
     }
 }
