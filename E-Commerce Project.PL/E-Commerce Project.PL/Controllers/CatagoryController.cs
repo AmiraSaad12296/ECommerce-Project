@@ -1,12 +1,7 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.ComponentModel.DataAnnotations;
-using E_Commerce.BL.DTO;
-using E_Commerce.DAL.Models;
-using Swashbuckle.AspNetCore.Annotations;
+﻿using E_Commerce.BL.DTO;
 using E_Commerce.BL.UOW;
+using E_Commerce.DAL.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace E_Commerce_Project.PL.Controllers
 {
@@ -20,20 +15,20 @@ namespace E_Commerce_Project.PL.Controllers
         {
             this.unit = unit;
         }
-        
-        
-        
+
+
+
         [HttpGet]
-        
+
         public ActionResult GetAll()
         {
-           
+
             List<Category> cat = unit.CatagoryRepository.selectall();
             List<CatagoryDTO> catdto = new List<CatagoryDTO>();
 
             foreach (Category c in cat)
             {
-                string CatImageUrl = Url.Action("GetFile", "Catagory", new { name = c.CatId});
+                string CatImageUrl = Url.Action("GetFile", "Catagory", new { name = c.CatId });
                 CatagoryDTO catto = new CatagoryDTO()
                 {
                     CatName = c.CatName,
@@ -68,7 +63,7 @@ namespace E_Commerce_Project.PL.Controllers
 
 
         [HttpPost]
-      
+
 
         public ActionResult Add(Category category, IFormFile imageFile)
         {
@@ -84,7 +79,7 @@ namespace E_Commerce_Project.PL.Controllers
                         imageFile.CopyTo(stream);
                     }
 
-                    category.CatImage = fileName; 
+                    category.CatImage = fileName;
                 }
                 unit.CatagoryRepository.add(category);
                 unit.savechanges();
@@ -93,7 +88,7 @@ namespace E_Commerce_Project.PL.Controllers
             }
             catch (Exception ex)
             {
-                
+
                 return StatusCode(500, $"Internal server error: {ex}");
             }
         }
@@ -123,7 +118,7 @@ namespace E_Commerce_Project.PL.Controllers
 
             if (!System.IO.File.Exists(filePath))
             {
-                return NotFound(); 
+                return NotFound();
             }
 
             var temporaryImage = System.IO.File.OpenRead(filePath);

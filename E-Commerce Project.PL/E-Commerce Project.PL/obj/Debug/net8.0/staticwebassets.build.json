@@ -1,34 +1,45 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "dpcJHH2K6sP6YnQsfgUjBFnUtpftbIhC9MtpSw+Qc9w=",
-=======
-  "Hash": "qTWaw4NKrHcSivmh1ftzAvzeYvSY+IyEPiXo8XDY9mE=",
->>>>>>> origin/main
+  "Hash": "Cqw5SZJtIXvQNB4oFjoeGqZWRnsHeiR4YXdM2POXDN8=",
   "Source": "E-Commerce Project.PL",
   "BasePath": "_content/E-Commerce Project.PL",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-<<<<<<< HEAD
-  "DiscoveryPatterns": [],
-  "Assets": []
-=======
   "DiscoveryPatterns": [
     {
       "Name": "E-Commerce Project.PL\\wwwroot",
       "Source": "E-Commerce Project.PL",
-      "ContentRoot": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\1.png",
+      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\Catagory\\Catimg.jpg",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "BasePath": "_content/E-Commerce Project.PL",
+      "RelativePath": "image/Catagory/Catimg.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\Catagory\\Catimg.jpg"
+    },
+    {
+      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\1.png",
+      "SourceId": "E-Commerce Project.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/1.png",
       "AssetKind": "All",
@@ -44,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\1.png"
     },
     {
-      "Identity": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\10.png",
+      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\10.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/10.png",
       "AssetKind": "All",
@@ -63,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\10.png"
     },
     {
-      "Identity": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\2.png",
+      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\2.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/2.png",
       "AssetKind": "All",
@@ -82,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\2.png"
     },
     {
-      "Identity": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\3.png",
+      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\3.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/3.png",
       "AssetKind": "All",
@@ -101,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\3.png"
     },
     {
-      "Identity": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\5.png",
+      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\5.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/5.png",
       "AssetKind": "All",
@@ -120,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\5.png"
     },
     {
-      "Identity": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\6.png",
+      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\6.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/6.png",
       "AssetKind": "All",
@@ -139,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\6.png"
     },
     {
-      "Identity": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\7.png",
+      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\7.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/7.png",
       "AssetKind": "All",
@@ -158,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\7.png"
     },
     {
-      "Identity": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\8.png",
+      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\8.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/8.png",
       "AssetKind": "All",
@@ -177,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\8.png"
     },
     {
-      "Identity": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\9.png",
+      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\9.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/9.png",
       "AssetKind": "All",
@@ -196,5 +207,4 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\9.png"
     }
   ]
->>>>>>> origin/main
 }

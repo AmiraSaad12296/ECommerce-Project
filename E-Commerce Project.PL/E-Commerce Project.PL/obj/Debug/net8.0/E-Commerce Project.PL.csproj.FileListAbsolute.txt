@@ -1,96 +1,6 @@
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\appsettings.Development.json
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\appsettings.json
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.exe
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.deps.json
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.runtimeconfig.json
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.pdb
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Azure.Core.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Azure.Identity.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Castle.Core.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.OpenApi.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Newtonsoft.Json.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Drawing.Common.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Memory.Data.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Runtime.Caching.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Security.Permissions.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Windows.Extensions.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.BL.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.DAL.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.BL.pdb
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.DAL.pdb
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.csproj.AssemblyReference.cache
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.GeneratedMSBuildEditorConfig.editorconfig
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.AssemblyInfoInputs.cache
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.AssemblyInfo.cs
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.csproj.CoreCompileInputs.cache
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.MvcApplicationPartsAssemblyInfo.cs
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.MvcApplicationPartsAssemblyInfo.cache
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.build.json
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.development.json
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.E-Commerce Project.PL.Microsoft.AspNetCore.StaticWebAssets.props
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.build.E-Commerce Project.PL.props
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce Project.PL.props
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-Commerce Project.PL.props
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.pack.json
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\scopedcss\bundle\E-Commerce Project.PL.styles.css
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commer.2420506F.Up2Date
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\refint\E-Commerce Project.PL.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.pdb
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.genruntimeconfig.cache
-D:\MVC\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\ref\E-Commerce Project.PL.dll
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.csproj.AssemblyReference.cache
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.GeneratedMSBuildEditorConfig.editorconfig
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.AssemblyInfoInputs.cache
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.AssemblyInfo.cs
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.csproj.CoreCompileInputs.cache
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.MvcApplicationPartsAssemblyInfo.cs
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.MvcApplicationPartsAssemblyInfo.cache
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.sourcelink.json
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.dll
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\refint\E-Commerce Project.PL.dll
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.pdb
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\appsettings.Development.json
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\appsettings.json
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.staticwebassets.runtime.json
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.exe
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.deps.json
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.runtimeconfig.json
@@ -99,6 +9,10 @@ D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Azure.Core.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Azure.Identity.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Castle.Core.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -108,6 +22,9 @@ D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -121,6 +38,7 @@ D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -148,6 +66,14 @@ D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.DAL.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.BL.pdb
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.DAL.pdb
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.csproj.AssemblyReference.cache
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.AssemblyInfoInputs.cache
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.AssemblyInfo.cs
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.csproj.CoreCompileInputs.cache
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.sourcelink.json
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.build.json
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.development.json
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.E-Commerce Project.PL.Microsoft.AspNetCore.StaticWebAssets.props
@@ -157,182 +83,8 @@ D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.pack.json
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\scopedcss\bundle\E-Commerce Project.PL.styles.css
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commer.2420506F.Up2Date
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\refint\E-Commerce Project.PL.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.pdb
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.genruntimeconfig.cache
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\ref\E-Commerce Project.PL.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\appsettings.Development.json
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\appsettings.json
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.exe
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.deps.json
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.runtimeconfig.json
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.pdb
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Azure.Core.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Azure.Identity.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Castle.Core.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.OpenApi.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Newtonsoft.Json.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Drawing.Common.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Memory.Data.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Runtime.Caching.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Security.Permissions.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Windows.Extensions.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.BL.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.DAL.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.BL.pdb
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.DAL.pdb
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.csproj.AssemblyReference.cache
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.GeneratedMSBuildEditorConfig.editorconfig
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.AssemblyInfoInputs.cache
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.AssemblyInfo.cs
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.csproj.CoreCompileInputs.cache
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.MvcApplicationPartsAssemblyInfo.cs
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.MvcApplicationPartsAssemblyInfo.cache
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.sourcelink.json
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.build.json
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.development.json
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.E-Commerce Project.PL.Microsoft.AspNetCore.StaticWebAssets.props
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.build.E-Commerce Project.PL.props
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce Project.PL.props
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-Commerce Project.PL.props
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.pack.json
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\scopedcss\bundle\E-Commerce Project.PL.styles.css
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commer.2420506F.Up2Date
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\refint\E-Commerce Project.PL.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.pdb
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.genruntimeconfig.cache
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\ref\E-Commerce Project.PL.dll
-<<<<<<< HEAD
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
-=======
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.staticwebassets.runtime.json
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\appsettings.json
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.exe
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.deps.json
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.runtimeconfig.json
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.pdb
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Azure.Core.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Azure.Identity.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Castle.Core.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Memory.Data.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Runtime.Caching.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\System.Windows.Extensions.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.BL.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.DAL.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.BL.pdb
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.DAL.pdb
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.csproj.AssemblyReference.cache
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.AssemblyInfoInputs.cache
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.AssemblyInfo.cs
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.csproj.CoreCompileInputs.cache
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.sourcelink.json
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.E-Commerce Project.PL.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.build.E-Commerce Project.PL.props
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce Project.PL.props
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-Commerce Project.PL.props
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\scopedcss\bundle\E-Commerce Project.PL.styles.css
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commer.2420506F.Up2Date
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\refint\E-Commerce Project.PL.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.pdb
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.genruntimeconfig.cache
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\ref\E-Commerce Project.PL.dll
->>>>>>> 98c7956ade08ab630de60f10a8ba215561ae8126
->>>>>>> origin/main

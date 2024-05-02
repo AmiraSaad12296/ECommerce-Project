@@ -1,10 +1,4 @@
 ﻿using E_Commerce.DAL.Models;
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace E_Commerce.BL.Repository
 {
@@ -48,6 +42,6 @@ namespace E_Commerce.BL.Repository
         {
             return db.Users.FirstOrDefault(u => u.UserName == username);
         }
-       
+
     }
 }

@@ -1,10 +1,8 @@
-﻿using E_Commerce.DAL.Models;
-
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using E_Commerce.BL.DTO;
-using Swashbuckle.AspNetCore.Annotations;
+﻿using E_Commerce.BL.DTO;
 using E_Commerce.BL.UOW;
+using E_Commerce.DAL.Models;
+using Microsoft.AspNetCore.Mvc;
+using Swashbuckle.AspNetCore.Annotations;
 
 
 
@@ -100,52 +98,49 @@ namespace E_Commerce_Project.PL.Controllers
         {
 
             unit.ProductsRepository.delete(id);
-
-            unit.ProductsRepository.delete(id);
-
             unit.savechanges();
             return Ok();
         }
 
-       
-            [HttpPut("{id}")]
-            [SwaggerOperation(Summary = "method to Update product", Description = "Update Product")]
 
-            public ActionResult Update(Product product)
-            {
+        [HttpPut("{id}")]
+        [SwaggerOperation(Summary = "method to Update product", Description = "Update Product")]
 
-                unit.ProductsRepository.update(product);
+        public ActionResult Update(Product product)
+        {
 
-                unit.savechanges();
-                return Ok();
+            unit.ProductsRepository.update(product);
 
-            }
-
-        
-
-            [HttpGet("product-image/{name}")]
-            public IActionResult GetFile(int name)
-            {
-                var fileName = $"{name}.png";
-                var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "image", "products", fileName);
-
-                if (!System.IO.File.Exists(filePath))
-                {
-                    return NotFound(); // Handle file not found
-                }
-
-                var temporaryImage = System.IO.File.OpenRead(filePath);
-                // Replace "image/png" with the correct mimetype of your image.
-                return File(temporaryImage, "image/png");
-            }
-
-
-
-
-
-
-
+            unit.savechanges();
+            return Ok();
 
         }
+
+
+
+        [HttpGet("product-image/{name}")]
+        public IActionResult GetFile(int name)
+        {
+            var fileName = $"{name}.png";
+            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "image", "products", fileName);
+
+            if (!System.IO.File.Exists(filePath))
+            {
+                return NotFound(); // Handle file not found
+            }
+
+            var temporaryImage = System.IO.File.OpenRead(filePath);
+            // Replace "image/png" with the correct mimetype of your image.
+            return File(temporaryImage, "image/png");
+        }
+
+
+
+
+
+
+
+
     }
+}
 

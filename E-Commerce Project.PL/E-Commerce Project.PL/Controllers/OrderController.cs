@@ -1,8 +1,7 @@
-﻿using E_Commerce.DAL.Models;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using E_Commerce.BL.DTO;
+﻿using E_Commerce.BL.DTO;
 using E_Commerce.BL.UOW;
+using E_Commerce.DAL.Models;
+using Microsoft.AspNetCore.Mvc;
 namespace E_Commerce_Project.PL.Controllers
 {
     [Route("api/[controller]")]
@@ -38,7 +37,7 @@ namespace E_Commerce_Project.PL.Controllers
                 };
                 dtos.Add(dto);
             }
-            return Ok(dtos);            
+            return Ok(dtos);
         }
 
         [HttpGet("{id}")]
@@ -56,20 +55,20 @@ namespace E_Commerce_Project.PL.Controllers
             };
             return Ok(dto);
         }
-       
 
-       /* {
-             "quantity": 3,
-             "status": "pending",
-             "orderDate": "2024-05-01T21:50:33.489Z",
-             "isCancel": true,
-             "paymentId": 1,
-             "userId": 1,
-             "productId": 1
-          } */
-    [HttpPost] //modelstate not working
+
+        /* {
+              "quantity": 3,
+              "status": "pending",
+              "orderDate": "2024-05-01T21:50:33.489Z",
+              "isCancel": true,
+              "paymentId": 1,
+              "userId": 1,
+              "productId": 1
+           } */
+        [HttpPost] //modelstate not working
         [Consumes("application/json")]
-        public IActionResult add([FromBody]Order order)
+        public IActionResult add([FromBody] Order order)
         {
             if (!ModelState.IsValid)
             {

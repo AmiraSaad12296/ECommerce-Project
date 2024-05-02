@@ -1,17 +1,3 @@
-D:\MVC\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.deps.json
-D:\MVC\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.runtimeconfig.json
-D:\MVC\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.pdb
-D:\MVC\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.csproj.AssemblyReference.cache
-D:\MVC\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
-D:\MVC\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfoInputs.cache
-D:\MVC\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfo.cs
-D:\MVC\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.csproj.CoreCompileInputs.cache
-D:\MVC\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\refint\E-Commerce.DAL.dll
-D:\MVC\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.pdb
-D:\MVC\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.genruntimeconfig.cache
-D:\MVC\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\ref\E-Commerce.DAL.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.deps.json
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.runtimeconfig.json
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.dll
@@ -27,36 +13,3 @@ D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.pdb
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.genruntimeconfig.cache
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\ref\E-Commerce.DAL.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.deps.json
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.runtimeconfig.json
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.pdb
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.csproj.AssemblyReference.cache
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfoInputs.cache
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfo.cs
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.csproj.CoreCompileInputs.cache
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.sourcelink.json
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\refint\E-Commerce.DAL.dll
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.pdb
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.genruntimeconfig.cache
-D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\ref\E-Commerce.DAL.dll
-<<<<<<< HEAD
-=======
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.deps.json
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.runtimeconfig.json
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.pdb
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.csproj.AssemblyReference.cache
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfoInputs.cache
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfo.cs
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.csproj.CoreCompileInputs.cache
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.sourcelink.json
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\refint\E-Commerce.DAL.dll
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.pdb
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.genruntimeconfig.cache
-C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\ref\E-Commerce.DAL.dll
->>>>>>> origin/main

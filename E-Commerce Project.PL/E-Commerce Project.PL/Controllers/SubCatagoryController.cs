@@ -1,7 +1,6 @@
 ﻿using E_Commerce.BL.DTO;
 using E_Commerce.BL.UOW;
 using E_Commerce.DAL.Models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace E_Commerce_Project.PL.Controllers
@@ -45,7 +44,7 @@ namespace E_Commerce_Project.PL.Controllers
             {
                 SubCatagoryDTO Scatto = new SubCatagoryDTO()
                 {
-                    SubCatId=s.SubCatId,
+                    SubCatId = s.SubCatId,
                     SubCatName = s.SubCatName,
                     CreatedDate = DateTime.Now,
                     IsActive = s.IsActive,

@@ -1,20 +1,12 @@
 
-﻿using E_Commerce.BL.DTO;
+using E_Commerce.BL.DTO;
 using E_Commerce.BL.UOW;
 using E_Commerce.DAL.Models;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
 
 
 namespace E_Commerce_Project.PL.Controllers
@@ -25,7 +17,6 @@ namespace E_Commerce_Project.PL.Controllers
     {
 
         private readonly UnitOfWorks _unitOfWork;
-        private readonly IConfiguration _config;
 
         public AccountController(UnitOfWorks unitOfWork)
         {
@@ -67,19 +58,19 @@ namespace E_Commerce_Project.PL.Controllers
                 List<Claim> Data = new List<Claim>();
                 Data.Add(new Claim("name", userData.UserName));
                 Data.Add(new Claim(ClaimTypes.MobilePhone, "0112874"));
-               
-               
-              
-                
+
+
+
+
                 if (user.Role.RoleName == "Admin")
                 {
-                  Data.Add(new Claim("isAdmin", "true"));
-                  Data.Add(new Claim(ClaimTypes.Role, "Admin"));
+                    Data.Add(new Claim("isAdmin", "true"));
+                    Data.Add(new Claim(ClaimTypes.Role, "Admin"));
                 }
                 else if (user.RoleId == 2)
                 {
-                Data.Add(new Claim("isCustomer", "true"));
-                Data.Add(new Claim(ClaimTypes.Role, "Customer"));
+                    Data.Add(new Claim("isCustomer", "true"));
+                    Data.Add(new Claim(ClaimTypes.Role, "Customer"));
 
                 }
 
@@ -101,7 +92,7 @@ namespace E_Commerce_Project.PL.Controllers
                 return Unauthorized();
             }
         }
-    
+
     }
 }
 

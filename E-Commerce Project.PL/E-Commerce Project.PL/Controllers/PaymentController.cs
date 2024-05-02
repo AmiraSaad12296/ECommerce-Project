@@ -1,7 +1,6 @@
 ﻿using E_Commerce.BL.DTO;
 using E_Commerce.BL.UOW;
 using E_Commerce.DAL.Models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace E_Commerce_Project.PL.Controllers
@@ -38,7 +37,7 @@ namespace E_Commerce_Project.PL.Controllers
                     cardNo = p.CardNo,
                     expDate = p.ExpDate,
                     name = p.Name,
-                    PaymentMode = p.PaymentMode                 
+                    PaymentMode = p.PaymentMode
                 };
                 dtos.Add(dto);
             }
@@ -56,20 +55,20 @@ namespace E_Commerce_Project.PL.Controllers
                 PaymentMode = payment.PaymentMode,
                 expDate = payment.ExpDate,
                 name = payment.Name,
-                cardNo= payment.CardNo,
+                cardNo = payment.CardNo,
                 paymentId = payment.PaymentId
             };
             return Ok(dto);
         }
 
-         /*{
-          "name": "string",
-          "cardNo": 0,
-          "expDate": "string",
-          "cvvNo": "string",
-          "address": "string",
-          "paymentMode": "string"
-        } */
+        /*{
+         "name": "string",
+         "cardNo": 0,
+         "expDate": "string",
+         "cvvNo": "string",
+         "address": "string",
+         "paymentMode": "string"
+       } */
         [HttpPost]
         [Consumes("application/json")]
         public IActionResult add(Payment payment)

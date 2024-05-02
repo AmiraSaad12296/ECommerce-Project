@@ -1,17 +1,9 @@
-using E_Commerce.BL.DTO;
 using E_Commerce.BL.UOW;
 using E_Commerce.DAL.Models;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
-using System.Security.Claims;
 using System.Text;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.OpenApi.Models;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace E_Commerce_Project.PL
 {
@@ -22,8 +14,7 @@ namespace E_Commerce_Project.PL
         {
             string text = "";
             {
-                string txt = "";
-
+                
                 var builder = WebApplication.CreateBuilder(args);
 
                 // Add services to the container.
@@ -53,6 +44,7 @@ namespace E_Commerce_Project.PL
                       }
                       );
                       opt.EnableAnnotations();
+                      
                   }
               );
                 builder.Services.AddAuthentication(op => op.DefaultAuthenticateScheme = "MySchema")
@@ -84,40 +76,6 @@ namespace E_Commerce_Project.PL
                 });
 
 
-                builder.Services.AddDbContext<EcommerceProjectContext>(op => op.UseLazyLoadingProxies().UseSqlServer(builder.Configuration.GetConnectionString("EC")));
-
-                builder.Services.AddScoped<UnitOfWorks>();
-
-                builder.Services.AddSwaggerGen(
-                  opt =>
-                  {
-                      opt.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo()
-                      {
-                          Version = "v1",
-                          Title = "E-Commerce API",
-                          Description = "A Backend API to manage E-Commerce App",
-                          TermsOfService = new Uri("http://tempuri.org/terms"),
-                          Contact = new OpenApiContact
-                          {
-                              Name = "Team",
-                              Email = "amr.aboulela97@gmail.com"
-                          }
-                      });
-                      //var filePath = Path.Combine(System.AppContext.BaseDirectory, "MyApi.xml");
-                      //opt.IncludeXmlComments(filePath);
-                      opt.EnableAnnotations();
-                  });
-
-                builder.Services.AddCors(options =>
-                {
-                    options.AddPolicy(txt,
-                    builder =>
-                    {
-                        builder.AllowAnyOrigin();
-                        builder.AllowAnyMethod();
-                        builder.AllowAnyHeader();
-                    });
-                });
 
                 var app = builder.Build();
 
@@ -133,7 +91,6 @@ namespace E_Commerce_Project.PL
                 app.UseAuthorization();
 
                 app.UseCors(text);
-                app.UseCors(txt);
 
                 app.MapControllers();
 
