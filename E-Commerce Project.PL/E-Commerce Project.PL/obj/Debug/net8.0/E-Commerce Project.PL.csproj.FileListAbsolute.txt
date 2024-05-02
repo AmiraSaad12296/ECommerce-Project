@@ -241,3 +241,4 @@ D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Proje
 D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.pdb
 D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.genruntimeconfig.cache
 D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\ref\E-Commerce Project.PL.dll
+D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.staticwebassets.runtime.json

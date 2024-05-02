@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\1.png",
+      "PackagePath": "staticwebassets\\image\\products\\1.png"
+    },
+    {
+      "Id": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\10.png",
+      "PackagePath": "staticwebassets\\image\\products\\10.png"
+    },
+    {
+      "Id": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\2.png",
+      "PackagePath": "staticwebassets\\image\\products\\2.png"
+    },
+    {
+      "Id": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\3.png",
+      "PackagePath": "staticwebassets\\image\\products\\3.png"
+    },
+    {
+      "Id": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\5.png",
+      "PackagePath": "staticwebassets\\image\\products\\5.png"
+    },
+    {
+      "Id": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\6.png",
+      "PackagePath": "staticwebassets\\image\\products\\6.png"
+    },
+    {
+      "Id": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\7.png",
+      "PackagePath": "staticwebassets\\image\\products\\7.png"
+    },
+    {
+      "Id": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\8.png",
+      "PackagePath": "staticwebassets\\image\\products\\8.png"
+    },
+    {
+      "Id": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\9.png",
+      "PackagePath": "staticwebassets\\image\\products\\9.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E-Commerce Project.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.E-Commerce Project.PL.props",
+      "PackagePath": "build\\E-Commerce Project.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Commerce Project.PL.props",
+      "PackagePath": "buildMultiTargeting\\E-Commerce Project.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.E-Commerce Project.PL.props",
+      "PackagePath": "buildTransitive\\E-Commerce Project.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

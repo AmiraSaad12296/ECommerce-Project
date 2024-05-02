@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\e-commerce project.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|solutionrelative:e-commerce project.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\e-commerce.bl\\repository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|solutionrelative:e-commerce.bl\\repository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\e-commerce.bl\\uow\\unitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|solutionrelative:e-commerce.bl\\uow\\unitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|d:\\iti\\api\\finalproject\\ecommerce-project\\e-commerce project.pl\\e-commerce project.pl\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\e-commerce project.pl\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|solutionrelative:e-commerce project.pl\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\e-commerce.bl\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|solutionrelative:e-commerce.bl\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5630598-CE63-4BFE-A056-CCA73FFCE810}|E-Commerce.DAL\\E-Commerce.DAL.csproj|d:\\iti\\api\\finalproject\\ecommerce-project\\e-commerce project.pl\\e-commerce.dal\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5630598-CE63-4BFE-A056-CCA73FFCE810}|E-Commerce.DAL\\E-Commerce.DAL.csproj|solutionrelative:e-commerce.dal\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5630598-CE63-4BFE-A056-CCA73FFCE810}|E-Commerce.DAL\\E-Commerce.DAL.csproj|D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\e-commerce.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5630598-CE63-4BFE-A056-CCA73FFCE810}|E-Commerce.DAL\\E-Commerce.DAL.csproj|solutionrelative:e-commerce.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\e-commerce.bl\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|solutionrelative:e-commerce.bl\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|d:\\iti\\api\\finalproject\\ecommerce-project\\e-commerce project.pl\\e-commerce project.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|solutionrelative:e-commerce project.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\e-commerce.bl\\uow\\unitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|solutionrelative:e-commerce.bl\\uow\\unitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\e-commerce.bl\\repository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|solutionrelative:e-commerce.bl\\repository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Program.cs",
               "RelativeDocumentMoniker": "E-Commerce Project.PL\\Program.cs",
               "ToolTip": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Program.cs",
               "RelativeToolTip": "E-Commerce Project.PL\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAMAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T21:42:31.362Z",
               "IsPinned": true,
@@ -88,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UnitOfWorks.cs",
               "DocumentMoniker": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\UOW\\UnitOfWorks.cs",
               "RelativeDocumentMoniker": "E-Commerce.BL\\UOW\\UnitOfWorks.cs",
@@ -96,24 +100,24 @@
               "RelativeToolTip": "E-Commerce.BL\\UOW\\UnitOfWorks.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAACoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T22:15:41.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T22:15:41.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\Models\\Product.cs",
               "RelativeDocumentMoniker": "E-Commerce.DAL\\Models\\Product.cs",
               "ToolTip": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\Models\\Product.cs",
               "RelativeToolTip": "E-Commerce.DAL\\Models\\Product.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAAAE8AAAAzAAAA",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEgAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T17:54:48.07Z"
+              "WhenOpened": "2024-04-30T17:54:48.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "GenericRepo.cs",
               "DocumentMoniker": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\Repository\\GenericRepo.cs",
               "RelativeDocumentMoniker": "E-Commerce.BL\\Repository\\GenericRepo.cs",
@@ -121,32 +125,45 @@
               "RelativeToolTip": "E-Commerce.BL\\Repository\\GenericRepo.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T20:56:49.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T20:56:49.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\DTO\\ProductDTO.cs",
               "RelativeDocumentMoniker": "E-Commerce.BL\\DTO\\ProductDTO.cs",
               "ToolTip": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\DTO\\ProductDTO.cs",
               "RelativeToolTip": "E-Commerce.BL\\DTO\\ProductDTO.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAABIAAAAaAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T23:38:20.478Z"
+              "WhenOpened": "2024-04-29T23:38:20.478Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "productController.cs",
               "DocumentMoniker": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\productController.cs",
               "RelativeDocumentMoniker": "E-Commerce Project.PL\\Controllers\\productController.cs",
               "ToolTip": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\productController.cs",
               "RelativeToolTip": "E-Commerce Project.PL\\Controllers\\productController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEgAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T23:13:53.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "E-Commerce.DAL\\Models\\ProductImage.cs",
+              "ToolTip": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\Models\\ProductImage.cs",
+              "RelativeToolTip": "E-Commerce.DAL\\Models\\ProductImage.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:17:01.696Z",
               "EditorCaption": ""
             }
           ]
