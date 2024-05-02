@@ -27,15 +27,17 @@ namespace E_Commerce_Project.PL.Controllers
         
         public ActionResult GetAll()
         {
+           
             List<Category> cat = unit.CatagoryRepository.selectall();
             List<CatagoryDTO> catdto = new List<CatagoryDTO>();
 
             foreach (Category c in cat)
             {
+                string CatImageUrl = Url.Action("GetFile", "Catagory", new { name = c.CatId});
                 CatagoryDTO catto = new CatagoryDTO()
                 {
                     CatName = c.CatName,
-                    CatImage =c.CatImage,
+                    CatImage = CatImageUrl,
                     CreatedDate = DateTime.Now,
                     IsActive = c.IsActive,
                 };
@@ -56,7 +58,7 @@ namespace E_Commerce_Project.PL.Controllers
                 CatagoryDTO catto = new CatagoryDTO()
                 {
                     CatName = c.CatName,
-                    CatImage = c.CatImage,
+                    CatImage = Url.Action("GetFile", "Catagory", new { name = c.CatId }),
                     CreatedDate = DateTime.Now,
                     IsActive = c.IsActive,
                 };
@@ -66,15 +68,35 @@ namespace E_Commerce_Project.PL.Controllers
 
 
         [HttpPost]
-       
-        public ActionResult add(Category catagory)
+      
+
+        public ActionResult Add(Category category, IFormFile imageFile)
         {
-            unit.CatagoryRepository.add(catagory);
-            unit.savechanges();
-            return Created();
+            try
+            {
+                if (imageFile != null && imageFile.Length > 0)
+                {
+                    var fileName = Guid.NewGuid().ToString() + Path.GetExtension(imageFile.FileName);
+                    var filePath = Path.Combine("wwwroot/images", fileName);
+
+                    using (var stream = new FileStream(filePath, FileMode.Create))
+                    {
+                        imageFile.CopyTo(stream);
+                    }
+
+                    category.CatImage = fileName; 
+                }
+                unit.CatagoryRepository.add(category);
+                unit.savechanges();
+
+                return Created();
+            }
+            catch (Exception ex)
+            {
+                
+                return StatusCode(500, $"Internal server error: {ex}");
+            }
         }
-
-
         [HttpDelete]
         public ActionResult Deleteid(int id)
         {
@@ -92,5 +114,22 @@ namespace E_Commerce_Project.PL.Controllers
             return Ok("Updated Successfully");
 
         }
+
+        [HttpGet("Catagory-image/{name}")]
+        public IActionResult GetFile(int name)
+        {
+            var fileName = $"{name}.jpg";
+            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "image", "Catagory", fileName);
+
+            if (!System.IO.File.Exists(filePath))
+            {
+                return NotFound(); 
+            }
+
+            var temporaryImage = System.IO.File.OpenRead(filePath);
+
+            return File(temporaryImage, "image/jpg");
+        }
+
     }
 }

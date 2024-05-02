@@ -251,9 +251,7 @@ D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
 =======
-<<<<<<< HEAD
 D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.staticwebassets.runtime.json
-=======
 C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\appsettings.json
 C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.exe

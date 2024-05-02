@@ -4,10 +4,8 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-<<<<<<< HEAD
 using System.Text.Json.Serialization;
-=======
->>>>>>> origin/main
+
 using Microsoft.EntityFrameworkCore;
 
 namespace E_Commerce.DAL.Models;
@@ -28,19 +26,16 @@ public partial class SubCategory
     public DateTime CreatedDate { get; set; }
 
     public int CategoryId { get; set; }
-<<<<<<< HEAD
-    [JsonIgnore]
-=======
 
->>>>>>> origin/main
+    [JsonIgnore]
+
     [ForeignKey("CategoryId")]
     [InverseProperty("SubCategories")]
     public virtual Category Category { get; set; }
 
-<<<<<<< HEAD
+
     [JsonIgnore]
-=======
->>>>>>> origin/main
+
     [InverseProperty("SubCat")]
     public virtual ICollection<Product> Products { get; set; } = new List<Product>();
 }
