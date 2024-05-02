@@ -48,7 +48,6 @@ namespace E_Commerce.BL.Repository
         {
             return db.Users.FirstOrDefault(u => u.UserName == username);
         }
-
        
     }
 }

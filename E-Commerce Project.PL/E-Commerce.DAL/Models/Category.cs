@@ -4,7 +4,10 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+<<<<<<< HEAD
 using System.Text.Json.Serialization;
+=======
+>>>>>>> origin/main
 using Microsoft.EntityFrameworkCore;
 
 namespace E_Commerce.DAL.Models;
@@ -29,10 +32,16 @@ public partial class Category
     [Column(TypeName = "datetime")]
     public DateTime CreatedDate { get; set; }
 
+<<<<<<< HEAD
     [JsonIgnore]
     [InverseProperty("Cat")]
     public virtual ICollection<Product> Products { get; set; } = new List<Product>();
     [JsonIgnore]
+=======
+    [InverseProperty("Cat")]
+    public virtual ICollection<Product> Products { get; set; } = new List<Product>();
+
+>>>>>>> origin/main
     [InverseProperty("Category")]
     public virtual ICollection<SubCategory> SubCategories { get; set; } = new List<SubCategory>();
 }

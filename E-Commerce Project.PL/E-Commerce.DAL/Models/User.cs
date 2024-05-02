@@ -4,14 +4,21 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+<<<<<<< HEAD
 using Microsoft.AspNetCore.Identity;
+=======
+>>>>>>> origin/main
 using Microsoft.EntityFrameworkCore;
 
 namespace E_Commerce.DAL.Models;
 
 [Table("User")]
 [Index("UserName", Name = "IX_User", IsUnique = true)]
+<<<<<<< HEAD
 public partial class User 
+=======
+public partial class User
+>>>>>>> origin/main
 {
     [Key]
     public int UserId { get; set; }

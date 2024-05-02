@@ -75,6 +75,7 @@
   },
   {
     "ContainingType": "E_Commerce_Project.PL.Controllers.productController",
+<<<<<<< HEAD
     "Method": "Update",
     "RelativePath": "api/product",
     "HttpMethod": "PUT",
@@ -91,6 +92,8 @@
   },
   {
     "ContainingType": "E_Commerce_Project.PL.Controllers.productController",
+=======
+>>>>>>> origin/main
     "Method": "getbyid",
     "RelativePath": "api/product/{id}",
     "HttpMethod": "GET",
@@ -123,5 +126,45 @@
         "StatusCode": 404
       }
     ]
+<<<<<<< HEAD
+=======
+  },
+  {
+    "ContainingType": "E_Commerce_Project.PL.Controllers.productController",
+    "Method": "Update",
+    "RelativePath": "api/product/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "E_Commerce.DAL.Models.Product",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_Commerce_Project.PL.Controllers.productController",
+    "Method": "GetFile",
+    "RelativePath": "api/product/product-image/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+>>>>>>> origin/main
   }
 ]

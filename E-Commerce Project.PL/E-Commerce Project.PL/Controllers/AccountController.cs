@@ -1,3 +1,4 @@
+
 ﻿using E_Commerce.BL.DTO;
 using E_Commerce.BL.UOW;
 using E_Commerce.DAL.Models;
@@ -12,12 +13,17 @@ using System.Security.Claims;
 using System.Text;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+
+
 namespace E_Commerce_Project.PL.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class AccountController : ControllerBase
     {
+
         private readonly UnitOfWorks _unitOfWork;
         private readonly IConfiguration _config;
 
@@ -95,5 +101,8 @@ namespace E_Commerce_Project.PL.Controllers
                 return Unauthorized();
             }
         }
+    
     }
 }
+
+

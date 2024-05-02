@@ -70,7 +70,11 @@ public partial class Product
     public virtual ICollection<Order> Orders { get; set; } = new List<Order>();
 
     [InverseProperty("Product")]
+<<<<<<< HEAD
     public virtual ICollection<ProductImage> ProductImages { get; set; } = new List<ProductImage>();
+=======
+    public virtual ICollection<ProductImage> ProductImages { get; set; } /*= new List<ProductImage>();*/
+>>>>>>> origin/main
 
     [InverseProperty("Product")]
     public virtual ICollection<ProductReview> ProductReviews { get; set; } = new List<ProductReview>();
