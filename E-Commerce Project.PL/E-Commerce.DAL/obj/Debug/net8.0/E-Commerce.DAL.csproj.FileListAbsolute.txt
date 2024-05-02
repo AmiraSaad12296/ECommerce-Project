@@ -42,3 +42,18 @@ D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\o
 D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.pdb
 D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.genruntimeconfig.cache
 D:\ITI\API\FinalProject\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\ref\E-Commerce.DAL.dll
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.deps.json
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.runtimeconfig.json
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.dll
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.pdb
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.csproj.AssemblyReference.cache
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfoInputs.cache
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfo.cs
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.sourcelink.json
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.dll
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\refint\E-Commerce.DAL.dll
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.pdb
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.genruntimeconfig.cache
+C:\Users\Amr\OneDrive\Desktop\WebApi-Angilar Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\ref\E-Commerce.DAL.dll

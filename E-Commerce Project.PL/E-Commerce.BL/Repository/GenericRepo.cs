@@ -43,9 +43,6 @@ namespace E_Commerce.BL.Repository
             db.Set<TEntity>().Remove(obj);
         }
 
-        public void save()
-        {
-            db.SaveChanges();
-        }
+       
     }
 }
