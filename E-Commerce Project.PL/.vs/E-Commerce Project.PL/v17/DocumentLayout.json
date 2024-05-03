@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\",
+  "WorkspaceRootPath": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|d:\\iti courses and tasks\\alexandria\\angular\\e-commerce project\\ecommerce-project\\e-commerce project.pl\\e-commerce project.pl\\controllers\\catagorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|c:\\users\\hikal\\onedrive\\desktop\\e-ecommerce\\ecommerce-project\\e-commerce project.pl\\e-commerce.bl\\uow\\unitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|solutionrelative:e-commerce.bl\\uow\\unitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|c:\\users\\hikal\\onedrive\\desktop\\e-ecommerce\\ecommerce-project\\e-commerce project.pl\\e-commerce project.pl\\controllers\\catagorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|solutionrelative:e-commerce project.pl\\controllers\\catagorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|d:\\iti courses and tasks\\alexandria\\angular\\e-commerce project\\ecommerce-project\\e-commerce project.pl\\e-commerce project.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|c:\\users\\hikal\\onedrive\\desktop\\e-ecommerce\\ecommerce-project\\e-commerce project.pl\\e-commerce project.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|solutionrelative:e-commerce project.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|d:\\iti courses and tasks\\alexandria\\angular\\e-commerce project\\ecommerce-project\\e-commerce project.pl\\e-commerce project.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|c:\\users\\hikal\\onedrive\\desktop\\e-ecommerce\\ecommerce-project\\e-commerce project.pl\\e-commerce project.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|solutionrelative:e-commerce project.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
@@ -25,20 +29,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -46,52 +38,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitOfWorks.cs",
+              "DocumentMoniker": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\UOW\\UnitOfWorks.cs",
+              "RelativeDocumentMoniker": "E-Commerce.BL\\UOW\\UnitOfWorks.cs",
+              "ToolTip": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\UOW\\UnitOfWorks.cs",
+              "RelativeToolTip": "E-Commerce.BL\\UOW\\UnitOfWorks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:14:30.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CatagoryController.cs",
-              "DocumentMoniker": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\CatagoryController.cs",
+              "DocumentMoniker": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\CatagoryController.cs",
               "RelativeDocumentMoniker": "E-Commerce Project.PL\\Controllers\\CatagoryController.cs",
-              "ToolTip": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\CatagoryController.cs",
+              "ToolTip": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\CatagoryController.cs",
               "RelativeToolTip": "E-Commerce Project.PL\\Controllers\\CatagoryController.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwAsAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T21:44:58.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "E-Commerce Project.PL\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\AccountController.cs",
               "RelativeToolTip": "E-Commerce Project.PL\\Controllers\\AccountController.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:44:33.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\appsettings.json",
-              "RelativeDocumentMoniker": "E-Commerce Project.PL\\appsettings.json",
-              "ToolTip": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\appsettings.json",
-              "RelativeToolTip": "E-Commerce Project.PL\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-02T21:44:29.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:44:33.047Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "E-Commerce Project.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\appsettings.json",
+              "RelativeToolTip": "E-Commerce Project.PL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T21:44:29.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AQIAAGAWAAAAAAAAAAAmwHEWAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-05-02T21:38:18.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:38:18.305Z"
             }
           ]
         }
