@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Cqw5SZJtIXvQNB4oFjoeGqZWRnsHeiR4YXdM2POXDN8=",
+  "Hash": "K9rxDp5qczNi3joiwGG8ElxfXixfOMzqJLcBC8ci53k=",
   "Source": "E-Commerce Project.PL",
   "BasePath": "_content/E-Commerce Project.PL",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\Catagory\\Catimg.jpg",
+      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\Catagory\\1.jpg",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
-      "RelativePath": "image/Catagory/Catimg.jpg",
+      "RelativePath": "image/Catagory/1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,7 +33,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\Catagory\\Catimg.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\Catagory\\1.jpg"
     },
     {
       "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\1.png",
