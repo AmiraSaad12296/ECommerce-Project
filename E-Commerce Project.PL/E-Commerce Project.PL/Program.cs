@@ -25,28 +25,7 @@ namespace E_Commerce_Project.PL
                 builder.Services.AddDbContext<EcommerceProjectContext>(op => op.UseLazyLoadingProxies().UseSqlServer(builder.Configuration.GetConnectionString("EC")));
 
                 builder.Services.AddScoped<UnitOfWorks>();
-                builder.Services.AddSwaggerGen(
-
-                  opt =>
-                  {
-
-                      opt.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo()
-                      {
-                          Title = "MyAPI",
-                          Version = "v2",
-                          Description = "Api To manage ITI Students And Departments",
-                          TermsOfService = new Uri("http://tempuri.org/terms"),
-                          Contact = new OpenApiContact
-                          {
-                              Name = "Amira Saad",
-                              Email = " amiraSaad@gmail.com"
-                          }
-                      }
-                      );
-                      opt.EnableAnnotations();
-                      
-                  }
-              );
+                
                 builder.Services.AddAuthentication(op => op.DefaultAuthenticateScheme = "MySchema")
                      .AddJwtBearer("MySchema",
                      op =>
@@ -74,7 +53,26 @@ namespace E_Commerce_Project.PL
                     builder.AllowAnyHeader();
                 });
                 });
+                builder.Services.AddSwaggerGen(
 
+              opt => {
+
+                  opt.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo()
+                  {
+                      Title = "MyAPI",
+                      Version = "v2",
+                      Description = "Api To manage ITI Students And Departments",
+                      TermsOfService = new Uri("http://tempuri.org/terms"),
+                      Contact = new OpenApiContact
+                      {
+                          Name = "Amira Saad",
+                          Email = " amiraSaad@gmail.com"
+                      }
+                  }
+                  );
+                  opt.EnableAnnotations();
+              }
+          );
 
 
                 var app = builder.Build();
@@ -85,7 +83,7 @@ namespace E_Commerce_Project.PL
                     app.UseSwagger();
                     app.UseSwaggerUI();
                 }
-
+               
                 app.UseHttpsRedirection();
 
                 app.UseAuthorization();

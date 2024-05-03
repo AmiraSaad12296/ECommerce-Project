@@ -21,9 +21,7 @@ namespace E_Commerce_Project.PL.Controllers
 
 
         [HttpGet]
-        [SwaggerOperation(Summary = "method to return all Products data", Description = "Products")]
-        [SwaggerResponse(400, "if no product", Type = typeof(void))]
-        [SwaggerResponse(200, "if found any Product", Type = typeof(List<ProductDTO>))]
+       
         public ActionResult GetAll()
         {
             List<Product> prod = unit.ProductsRepository.selectall();
@@ -53,8 +51,7 @@ namespace E_Commerce_Project.PL.Controllers
 
 
         [HttpGet("{id}")]
-        [ProducesResponseType<ProductDTO>(200)]
-        [ProducesResponseType(404)]
+       
         public ActionResult getbyid(int id)
         {
             Product p = unit.ProductsRepository.selectbyid(id);
@@ -79,10 +76,7 @@ namespace E_Commerce_Project.PL.Controllers
 
 
         [HttpPost]
-        [SwaggerOperation(Summary = "method to Create new product", Description = "new Product")]
-        [SwaggerResponse(201, "if product created", Type = typeof(void))]
-        [SwaggerResponse(400, "if product not created ", Type = typeof(void))]
-        [Consumes("application/json")]
+     
         public ActionResult add(Product product)
         {
             unit.ProductsRepository.add(product);
@@ -92,8 +86,7 @@ namespace E_Commerce_Project.PL.Controllers
 
 
         [HttpDelete]
-        [SwaggerOperation(Summary = "method to Delete product", Description = "delete Product")]
-        [SwaggerResponse(200, "if product deleted", Type = typeof(void))]
+       
         public ActionResult Deleteid(int id)
         {
 
