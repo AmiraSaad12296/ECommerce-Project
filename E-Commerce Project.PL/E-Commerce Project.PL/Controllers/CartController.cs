@@ -43,7 +43,7 @@ namespace E_Commerce_Project.PL.Controllers
                 return Ok(cartDTOs);
             }
         }
-        [HttpGet]
+        [HttpGet("{id}")]
         public IActionResult getById(int id)
         {
             Cart cart = unit.CartsRepo.selectbyid(id);

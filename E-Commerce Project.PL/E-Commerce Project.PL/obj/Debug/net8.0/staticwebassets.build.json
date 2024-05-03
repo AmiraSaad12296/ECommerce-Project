@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "AcTdmjUlXslqly+C0k+xXd2OYgydoujUwfhILL4mIEY=",
-=======
   "Hash": "K9rxDp5qczNi3joiwGG8ElxfXixfOMzqJLcBC8ci53k=",
->>>>>>> origin/main
   "Source": "E-Commerce Project.PL",
   "BasePath": "_content/E-Commerce Project.PL",
   "Mode": "Default",
@@ -21,11 +17,7 @@
   ],
   "Assets": [
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\Catagory\\1.jpg",
-=======
       "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\Catagory\\1.jpg",
->>>>>>> origin/main
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",

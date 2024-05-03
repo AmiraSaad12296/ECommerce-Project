@@ -41,7 +41,7 @@ namespace E_Commerce_Project.PL.Controllers
             }
 
         }
-        [HttpGet]
+        [HttpGet("{id}")]
         public IActionResult getById(int id)
         {
             WishList wishlist = unit.WishListRepository.selectbyid(id);
