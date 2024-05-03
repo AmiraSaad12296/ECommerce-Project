@@ -1,29 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\",
+  "WorkspaceRootPath": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\e-commerce project.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|c:\\users\\hikal\\onedrive\\desktop\\e-ecommerce\\ecommerce-project\\e-commerce project.pl\\e-commerce project.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|solutionrelative:e-commerce project.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\e-commerce.bl\\repository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|solutionrelative:e-commerce.bl\\repository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|c:\\users\\hikal\\onedrive\\desktop\\e-ecommerce\\ecommerce-project\\e-commerce project.pl\\e-commerce project.pl\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|solutionrelative:e-commerce project.pl\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\e-commerce.bl\\uow\\unitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5630598-CE63-4BFE-A056-CCA73FFCE810}|E-Commerce.DAL\\E-Commerce.DAL.csproj|c:\\users\\hikal\\onedrive\\desktop\\e-ecommerce\\ecommerce-project\\e-commerce project.pl\\e-commerce.dal\\models\\productreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5630598-CE63-4BFE-A056-CCA73FFCE810}|E-Commerce.DAL\\E-Commerce.DAL.csproj|solutionrelative:e-commerce.dal\\models\\productreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|c:\\users\\hikal\\onedrive\\desktop\\e-ecommerce\\ecommerce-project\\e-commerce project.pl\\e-commerce project.pl\\controllers\\productreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|solutionrelative:e-commerce project.pl\\controllers\\productreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|c:\\users\\hikal\\onedrive\\desktop\\e-ecommerce\\ecommerce-project\\e-commerce project.pl\\e-commerce.bl\\uow\\unitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|solutionrelative:e-commerce.bl\\uow\\unitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|d:\\iti\\api\\finalproject\\ecommerce-project\\e-commerce project.pl\\e-commerce project.pl\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|c:\\users\\hikal\\onedrive\\desktop\\e-ecommerce\\ecommerce-project\\e-commerce project.pl\\e-commerce.bl\\repository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|solutionrelative:e-commerce.bl\\repository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|c:\\users\\hikal\\onedrive\\desktop\\e-ecommerce\\ecommerce-project\\e-commerce project.pl\\e-commerce.bl\\dto\\wishlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|solutionrelative:e-commerce.bl\\dto\\wishlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5630598-CE63-4BFE-A056-CCA73FFCE810}|E-Commerce.DAL\\E-Commerce.DAL.csproj|c:\\users\\hikal\\onedrive\\desktop\\e-ecommerce\\ecommerce-project\\e-commerce project.pl\\e-commerce.dal\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5630598-CE63-4BFE-A056-CCA73FFCE810}|E-Commerce.DAL\\E-Commerce.DAL.csproj|solutionrelative:e-commerce.dal\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|c:\\users\\hikal\\onedrive\\desktop\\e-ecommerce\\ecommerce-project\\e-commerce project.pl\\e-commerce project.pl\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9A7FA33-DF51-4842-AC05-5720239A12C4}|E-Commerce Project.PL\\E-Commerce Project.PL.csproj|solutionrelative:e-commerce project.pl\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5630598-CE63-4BFE-A056-CCA73FFCE810}|E-Commerce.DAL\\E-Commerce.DAL.csproj|D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\e-commerce.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5630598-CE63-4BFE-A056-CCA73FFCE810}|E-Commerce.DAL\\E-Commerce.DAL.csproj|solutionrelative:e-commerce.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5630598-CE63-4BFE-A056-CCA73FFCE810}|E-Commerce.DAL\\E-Commerce.DAL.csproj|c:\\users\\hikal\\onedrive\\desktop\\e-ecommerce\\ecommerce-project\\e-commerce project.pl\\e-commerce.dal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5630598-CE63-4BFE-A056-CCA73FFCE810}|E-Commerce.DAL\\E-Commerce.DAL.csproj|solutionrelative:e-commerce.dal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\e-commerce.bl\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|c:\\users\\hikal\\onedrive\\desktop\\e-ecommerce\\ecommerce-project\\e-commerce project.pl\\e-commerce.bl\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAC43DF2-925A-4574-9343-3560E68BB3BB}|E-Commerce.BL\\E-Commerce.BL.csproj|solutionrelative:e-commerce.bl\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,134 +54,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Program.cs",
               "RelativeDocumentMoniker": "E-Commerce Project.PL\\Program.cs",
-              "ToolTip": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Program.cs",
               "RelativeToolTip": "E-Commerce Project.PL\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAMAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T21:42:31.362Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-05-03T14:26:10.712Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UnitOfWorks.cs",
-              "DocumentMoniker": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\UOW\\UnitOfWorks.cs",
-              "RelativeDocumentMoniker": "E-Commerce.BL\\UOW\\UnitOfWorks.cs",
-              "ToolTip": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\UOW\\UnitOfWorks.cs",
-              "RelativeToolTip": "E-Commerce.BL\\UOW\\UnitOfWorks.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAACoAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "ProductReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\ProductReviewController.cs",
+              "RelativeDocumentMoniker": "E-Commerce Project.PL\\Controllers\\ProductReviewController.cs",
+              "ToolTip": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\ProductReviewController.cs",
+              "RelativeToolTip": "E-Commerce Project.PL\\Controllers\\ProductReviewController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwF8AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T22:15:41.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T22:26:09.501Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "E-Commerce.DAL\\Models\\Product.cs",
-              "ToolTip": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\Models\\Product.cs",
-              "RelativeToolTip": "E-Commerce.DAL\\Models\\Product.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAAAE8AAAAzAAAA",
+              "Title": "UnitOfWorks.cs",
+              "DocumentMoniker": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\UOW\\UnitOfWorks.cs",
+              "RelativeDocumentMoniker": "E-Commerce.BL\\UOW\\UnitOfWorks.cs",
+              "ToolTip": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\UOW\\UnitOfWorks.cs",
+              "RelativeToolTip": "E-Commerce.BL\\UOW\\UnitOfWorks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T17:54:48.07Z"
+              "WhenOpened": "2024-05-02T22:17:59.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductReview.cs",
+              "DocumentMoniker": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\Models\\ProductReview.cs",
+              "RelativeDocumentMoniker": "E-Commerce.DAL\\Models\\ProductReview.cs",
+              "ToolTip": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\Models\\ProductReview.cs",
+              "RelativeToolTip": "E-Commerce.DAL\\Models\\ProductReview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:10:06.24Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GenericRepo.cs",
-              "DocumentMoniker": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\Repository\\GenericRepo.cs",
-              "RelativeDocumentMoniker": "E-Commerce.BL\\Repository\\GenericRepo.cs",
-              "ToolTip": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\Repository\\GenericRepo.cs",
-              "RelativeToolTip": "E-Commerce.BL\\Repository\\GenericRepo.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Title": "WishListController.cs",
+              "DocumentMoniker": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\WishListController.cs",
+              "RelativeDocumentMoniker": "E-Commerce Project.PL\\Controllers\\WishListController.cs",
+              "ToolTip": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\WishListController.cs",
+              "RelativeToolTip": "E-Commerce Project.PL\\Controllers\\WishListController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T20:56:49.562Z",
+              "WhenOpened": "2024-05-02T21:32:41.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WishListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\DTO\\WishListDTO.cs",
+              "RelativeDocumentMoniker": "E-Commerce.BL\\DTO\\WishListDTO.cs",
+              "ToolTip": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\DTO\\WishListDTO.cs",
+              "RelativeToolTip": "E-Commerce.BL\\DTO\\WishListDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:23:43.326Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\Repository\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "E-Commerce.BL\\Repository\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\Repository\\GenericRepo.cs",
+              "RelativeToolTip": "E-Commerce.BL\\Repository\\GenericRepo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:56:49.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WishList.cs",
+              "DocumentMoniker": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\Models\\WishList.cs",
+              "RelativeDocumentMoniker": "E-Commerce.DAL\\Models\\WishList.cs",
+              "ToolTip": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\Models\\WishList.cs",
+              "RelativeToolTip": "E-Commerce.DAL\\Models\\WishList.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:27:55.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "E-Commerce.DAL\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\Models\\Cart.cs",
+              "RelativeToolTip": "E-Commerce.DAL\\Models\\Cart.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:10:56.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ProductDTO.cs",
-              "DocumentMoniker": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\DTO\\ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\DTO\\ProductDTO.cs",
               "RelativeDocumentMoniker": "E-Commerce.BL\\DTO\\ProductDTO.cs",
-              "ToolTip": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\DTO\\ProductDTO.cs",
               "RelativeToolTip": "E-Commerce.BL\\DTO\\ProductDTO.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAABIAAAAaAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T23:38:20.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "productController.cs",
-              "DocumentMoniker": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\productController.cs",
+              "DocumentMoniker": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\productController.cs",
               "RelativeDocumentMoniker": "E-Commerce Project.PL\\Controllers\\productController.cs",
-              "ToolTip": "D:\\ITI\\API\\FinalProject\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\productController.cs",
+              "ToolTip": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\Controllers\\productController.cs",
               "RelativeToolTip": "E-Commerce Project.PL\\Controllers\\productController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwFUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T23:13:53.377Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2024-04-29T23:13:53.377Z"
             }
           ]
         }

@@ -12,6 +12,9 @@ namespace E_Commerce.BL.UOW
     {
         EcommerceProjectContext db;
         GenericRepo<Product> productsRepository;
+        GenericRepo<Cart> cartsRepo;
+        GenericRepo<WishList> wishListRepository;
+        GenericRepo<ProductReview> productReviewRepository;
 
 
         public UnitOfWorks(EcommerceProjectContext db)
@@ -30,6 +33,42 @@ namespace E_Commerce.BL.UOW
 
                 }
                 return productsRepository;
+            }
+        }
+        public GenericRepo<WishList> WishListRepository
+        {
+            get
+            {
+                if (wishListRepository == null)
+                {
+                    wishListRepository = new GenericRepo<WishList>(db);
+
+                }
+                return wishListRepository;
+            }
+        }
+        public GenericRepo<Cart> CartsRepo
+        {
+            get
+            {
+                if (cartsRepo == null)
+                {
+                    cartsRepo = new GenericRepo<Cart>(db);
+
+                }
+                return cartsRepo;
+            }
+        }
+        public GenericRepo<ProductReview> ProductReviewRepository
+        {
+            get
+            {
+                if (productReviewRepository == null)
+                {
+                    productReviewRepository = new GenericRepo<ProductReview>(db);
+
+                }
+                return productReviewRepository;
             }
         }
 
