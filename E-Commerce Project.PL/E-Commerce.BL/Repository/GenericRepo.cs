@@ -21,18 +21,18 @@ namespace E_Commerce.BL.Repository
             return db.Set<TEntity>().Find(id);
         }
 
-        public void add(TEntity entity)
+        public  void add(TEntity entity)
         {
             db.Set<TEntity>().Add(entity);
 
         }
 
-        public void update(TEntity entity)
+        public   void update(TEntity entity)
         {
             db.Entry(entity).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
         }
 
-        public void delete(int id)
+        public   void delete(int id)
         {
             TEntity obj = db.Set<TEntity>().Find(id);
             db.Set<TEntity>().Remove(obj);

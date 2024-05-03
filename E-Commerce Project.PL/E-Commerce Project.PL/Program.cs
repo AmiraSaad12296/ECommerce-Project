@@ -27,8 +27,8 @@ namespace E_Commerce_Project.PL
                 builder.Services.AddScoped<UnitOfWorks>();
                 builder.Services.AddSwaggerGen(
 
-                  opt =>
-                  {
+                   opt =>
+                   {
 
                       opt.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo()
                       {
@@ -45,8 +45,8 @@ namespace E_Commerce_Project.PL
                       );
                       opt.EnableAnnotations();
                       
-                  }
-              );
+                   }
+                );
                 builder.Services.AddAuthentication(op => op.DefaultAuthenticateScheme = "MySchema")
                      .AddJwtBearer("MySchema",
                      op =>

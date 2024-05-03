@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "Hash": "AcTdmjUlXslqly+C0k+xXd2OYgydoujUwfhILL4mIEY=",
+=======
   "Hash": "K9rxDp5qczNi3joiwGG8ElxfXixfOMzqJLcBC8ci53k=",
+>>>>>>> origin/main
   "Source": "E-Commerce Project.PL",
   "BasePath": "_content/E-Commerce Project.PL",
   "Mode": "Default",
@@ -10,17 +14,21 @@
     {
       "Name": "E-Commerce Project.PL\\wwwroot",
       "Source": "E-Commerce Project.PL",
-      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\Catagory\\1.jpg",
+=======
       "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\Catagory\\1.jpg",
+>>>>>>> origin/main
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/Catagory/1.jpg",
       "AssetKind": "All",
@@ -36,10 +44,10 @@
       "OriginalItemSpec": "wwwroot\\image\\Catagory\\1.jpg"
     },
     {
-      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\1.png",
+      "Identity": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\1.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/1.png",
       "AssetKind": "All",
@@ -55,10 +63,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\1.png"
     },
     {
-      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\10.png",
+      "Identity": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\10.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/10.png",
       "AssetKind": "All",
@@ -74,10 +82,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\10.png"
     },
     {
-      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\2.png",
+      "Identity": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\2.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/2.png",
       "AssetKind": "All",
@@ -93,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\2.png"
     },
     {
-      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\3.png",
+      "Identity": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\3.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/3.png",
       "AssetKind": "All",
@@ -112,10 +120,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\3.png"
     },
     {
-      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\5.png",
+      "Identity": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\5.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/5.png",
       "AssetKind": "All",
@@ -131,10 +139,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\5.png"
     },
     {
-      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\6.png",
+      "Identity": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\6.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/6.png",
       "AssetKind": "All",
@@ -150,10 +158,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\6.png"
     },
     {
-      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\7.png",
+      "Identity": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\7.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/7.png",
       "AssetKind": "All",
@@ -169,10 +177,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\7.png"
     },
     {
-      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\8.png",
+      "Identity": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\8.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/8.png",
       "AssetKind": "All",
@@ -188,10 +196,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\8.png"
     },
     {
-      "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\9.png",
+      "Identity": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\9.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/9.png",
       "AssetKind": "All",
