@@ -1,10 +1,8 @@
-﻿using E_Commerce.DAL.Models;
-
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using E_Commerce.BL.DTO;
-using Swashbuckle.AspNetCore.Annotations;
+﻿using E_Commerce.BL.DTO;
 using E_Commerce.BL.UOW;
+using E_Commerce.DAL.Models;
+using Microsoft.AspNetCore.Mvc;
+using Swashbuckle.AspNetCore.Annotations;
 
 
 
@@ -33,12 +31,16 @@ namespace E_Commerce_Project.PL.Controllers
 
             foreach (Product p in prod)
             {
+
+                string productImageUrl = Url.Action("GetFile", "product", new { name = p.ProdId });
+
                 ProductDTO prodto = new ProductDTO()
                 {
                     Id = p.ProdId,
                     Name = p.ProdName,
                     Description = p.ShortDesc,
                     Price = p.Price,
+                    ProductURL = productImageUrl,
                     Color = p.Color,
                     Size = p.Size,
                     CompanyName = p.CompanyName,
@@ -55,7 +57,7 @@ namespace E_Commerce_Project.PL.Controllers
         [ProducesResponseType(404)]
         public ActionResult getbyid(int id)
         {
-           Product p = unit.ProductsRepository.selectbyid(id);
+            Product p = unit.ProductsRepository.selectbyid(id);
             if (p == null) return NotFound();
             else
             {
@@ -65,6 +67,7 @@ namespace E_Commerce_Project.PL.Controllers
                     Name = p.ProdName,
                     Description = p.ShortDesc,
                     Price = p.Price,
+                    ProductURL = Url.Action("GetFile", "product", new { name = p.ProdId }),
                     Color = p.Color,
                     Size = p.Size,
                     CompanyName = p.CompanyName
@@ -93,26 +96,51 @@ namespace E_Commerce_Project.PL.Controllers
         [SwaggerResponse(200, "if product deleted", Type = typeof(void))]
         public ActionResult Deleteid(int id)
         {
-            unit.ProductsRepository.delete(id); 
+
+            unit.ProductsRepository.delete(id);
             unit.savechanges();
             return Ok();
         }
 
 
-
-        [HttpPut]
+        [HttpPut("{id}")]
         [SwaggerOperation(Summary = "method to Update product", Description = "Update Product")]
-        public ActionResult Update([FromBody] Product product)
+
+        public ActionResult Update(Product product)
         {
-           
-            unit.ProductsRepository.update(product);  
+
+            unit.ProductsRepository.update(product);
+
             unit.savechanges();
             return Ok();
 
         }
+
+
+
+        [HttpGet("product-image/{name}")]
+        public IActionResult GetFile(int name)
+        {
+            var fileName = $"{name}.png";
+            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "image", "products", fileName);
+
+            if (!System.IO.File.Exists(filePath))
+            {
+                return NotFound(); // Handle file not found
+            }
+
+            var temporaryImage = System.IO.File.OpenRead(filePath);
+            // Replace "image/png" with the correct mimetype of your image.
+            return File(temporaryImage, "image/png");
+        }
+
+
+
+
 
 
 
 
     }
 }
+
