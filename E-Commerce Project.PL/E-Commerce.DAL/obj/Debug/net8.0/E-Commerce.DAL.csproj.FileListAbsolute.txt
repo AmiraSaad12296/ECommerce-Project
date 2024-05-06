@@ -13,3 +13,18 @@ C:\Users\hikal\OneDrive\Desktop\E-Ecommerce\ECommerce-Project\E-Commerce Project
 C:\Users\hikal\OneDrive\Desktop\E-Ecommerce\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.pdb
 C:\Users\hikal\OneDrive\Desktop\E-Ecommerce\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.genruntimeconfig.cache
 C:\Users\hikal\OneDrive\Desktop\E-Ecommerce\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\ref\E-Commerce.DAL.dll
+D:\ITI\Final Projects\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.deps.json
+D:\ITI\Final Projects\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.runtimeconfig.json
+D:\ITI\Final Projects\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.dll
+D:\ITI\Final Projects\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.pdb
+D:\ITI\Final Projects\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.csproj.AssemblyReference.cache
+D:\ITI\Final Projects\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Final Projects\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfoInputs.cache
+D:\ITI\Final Projects\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfo.cs
+D:\ITI\Final Projects\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.csproj.CoreCompileInputs.cache
+D:\ITI\Final Projects\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.sourcelink.json
+D:\ITI\Final Projects\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.dll
+D:\ITI\Final Projects\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\refint\E-Commerce.DAL.dll
+D:\ITI\Final Projects\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.pdb
+D:\ITI\Final Projects\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.genruntimeconfig.cache
+D:\ITI\Final Projects\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\ref\E-Commerce.DAL.dll

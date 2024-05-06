@@ -1,10 +1,12 @@
 ﻿using E_Commerce.BL.DTO;
 using E_Commerce.BL.UOW;
 using E_Commerce.DAL.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace E_Commerce_Project.PL.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class PaymentController : ControllerBase
@@ -22,26 +24,25 @@ namespace E_Commerce_Project.PL.Controllers
         {
             List<Payment> payments = unit.PaymentsRepository.selectall();
 
-            if (payments == null || payments.Count == 0)
+            if (payments != null && payments.Count > 0)
             {
-                return NotFound("No payments found.");
-            }
+                List<PaymentDTO> dtos = new List<PaymentDTO>();
 
-            List<PaymentDTO> dtos = new List<PaymentDTO>();
-
-            foreach (Payment p in payments)
-            {
-                PaymentDTO dto = new PaymentDTO()
+                foreach (Payment p in payments)
                 {
-                    paymentId = p.PaymentId,
-                    cardNo = p.CardNo,
-                    expDate = p.ExpDate,
-                    name = p.Name,
-                    PaymentMode = p.PaymentMode
-                };
-                dtos.Add(dto);
-            }
-            return Ok(dtos);
+                    PaymentDTO dto = new PaymentDTO()
+                    {
+                        paymentId = p.PaymentId,
+                        cardNo = p.CardNo,
+                        expDate = p.ExpDate,
+                        name = p.Name,
+                        PaymentMode = p.PaymentMode
+                    };
+                    dtos.Add(dto);
+                }
+                return Ok(dtos);
+            }            
+            return NotFound("No payments found.");
         }
 
         [HttpGet("{id}")]
@@ -61,14 +62,6 @@ namespace E_Commerce_Project.PL.Controllers
             return Ok(dto);
         }
 
-        /*{
-         "name": "string",
-         "cardNo": 0,
-         "expDate": "string",
-         "cvvNo": "string",
-         "address": "string",
-         "paymentMode": "string"
-       } */
         [HttpPost]
         [Consumes("application/json")]
         public IActionResult add(Payment payment)
@@ -93,7 +86,6 @@ namespace E_Commerce_Project.PL.Controllers
         [Consumes("application/json")]
         public ActionResult update(Payment payment)
         {
-
             unit.PaymentsRepository.update(payment);
             unit.savechanges();
             return Ok();
