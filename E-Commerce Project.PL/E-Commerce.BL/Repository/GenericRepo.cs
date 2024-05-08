@@ -42,6 +42,10 @@ namespace E_Commerce.BL.Repository
         {
             return db.Users.FirstOrDefault(u => u.UserName == username);
         }
+        public User FindID(int userid)
+        {
+            return db.Users.FirstOrDefault(u => u.UserId == userid);
+        }
 
     }
 }

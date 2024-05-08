@@ -18,7 +18,7 @@ namespace E_Commerce_Project.PL.Controllers
 
 
         [HttpGet]
-        [Authorize(Roles = "Admin")]
+        [Authorize (Roles ="Admin")]
         public ActionResult GetAll()
         {
             List<Contact> contacts = unit.ContactRepository.selectall();
@@ -31,6 +31,7 @@ namespace E_Commerce_Project.PL.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles ="Customer")]
         public ActionResult add(Contact C)
         {
             unit.ContactRepository.add(C);
