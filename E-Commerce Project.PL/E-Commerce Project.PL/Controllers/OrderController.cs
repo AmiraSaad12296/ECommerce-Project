@@ -1,6 +1,7 @@
 ﻿using E_Commerce.BL.DTO;
 using E_Commerce.BL.UOW;
 using E_Commerce.DAL.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 namespace E_Commerce_Project.PL.Controllers
 {
@@ -15,18 +16,73 @@ namespace E_Commerce_Project.PL.Controllers
         }
 
 
-        [HttpGet]
+        [HttpGet]   //for admin
+        [Authorize(Roles ="Admin")]
         public IActionResult getAll()
         {
             List<Order> orders = unit.OrdersRepository.selectall();
-            if (orders == null || orders.Count == 0)
+            if(orders != null && orders.Count > 0)
             {
+                List<OrderDTO> dtos = new List<OrderDTO>();
+                foreach (Order order in orders)
+                {
+                    OrderDTO dto = new OrderDTO()
+                    {
+                        orderId = order.OrderId,
+                        quantity = order.Quantity,
+                        status = order.Status,
+                        orderDate = order.OrderDate,
+                        PaymentId = order.PaymentId,
+                        ProductName = unit.ProductsRepository.selectbyid(order.ProductId).ProdName,
+                        UserId = order.UserId,
+                        IsCancel = order.IsCancel,
+                    };
+                    dtos.Add(dto);
+                }
+                return Ok(dtos);
+            }
+            return NotFound("No orders found.");
+        }
+
+        [Authorize(Roles ="Customer")]
+        [HttpGet("userOrders/{userId}")] //for specific user
+        public IActionResult getAllOrdersByUserId(int userId)
+        {
+            User user = unit.UsersRepository.selectbyid(userId);
+            if(user != null)
+            {
+                List<Order> orders = user.Orders.ToList();
+                if (orders != null && orders.Count>0)
+                {
+                    List<OrderDTO> dtos = new List<OrderDTO>();
+                    foreach (Order order in orders)
+                    {
+                        OrderDTO dto = new OrderDTO()
+                        {
+                            orderId = order.OrderId,
+                            quantity = order.Quantity,
+                            status = order.Status,
+                            orderDate = order.OrderDate,
+                            PaymentId = order.PaymentId,
+                            ProductName = unit.ProductsRepository.selectbyid(order.ProductId).ProdName,
+                            UserId = order.UserId,
+                            IsCancel = order.IsCancel
+                        };
+                        dtos.Add(dto);
+                    }
+                    return Ok(dtos);
+                }
                 return NotFound("No orders found.");
             }
+            return BadRequest("user not found.");
+        }
 
-            List<OrderDTO> dtos = new List<OrderDTO>();
-
-            foreach (Order order in orders)
+        [Authorize]
+        [HttpGet("{id}")] //for admin
+        public IActionResult getById(int id)
+        {
+            Order order = unit.OrdersRepository.selectbyid(id);
+            if (order != null)
             {
                 OrderDTO dto = new OrderDTO()
                 {
@@ -34,82 +90,59 @@ namespace E_Commerce_Project.PL.Controllers
                     quantity = order.Quantity,
                     status = order.Status,
                     orderDate = order.OrderDate,
+                    PaymentId = order.PaymentId,
+                    ProductName = unit.ProductsRepository.selectbyid(order.ProductId).ProdName,
+                    UserId = order.UserId,
+                    IsCancel = order.IsCancel
                 };
-                dtos.Add(dto);
+                return Ok(dto);
             }
-            return Ok(dtos);
+            return NotFound("order does not exist");
         }
 
-        [HttpGet("{id}")]
-        public IActionResult getById(int id)
-        {
-            Order order = unit.OrdersRepository.selectbyid(id);
-            if (order == null) return NotFound();
-
-            OrderDTO dto = new OrderDTO()
-            {
-                orderId = order.OrderId,
-                quantity = order.Quantity,
-                status = order.Status,
-                orderDate = order.OrderDate
-            };
-            return Ok(dto);
-        }
-
-
-        /* {
-              "quantity": 3,
-              "status": "pending",
-              "orderDate": "2024-05-01T21:50:33.489Z",
-              "isCancel": true,
-              "paymentId": 1,
-              "userId": 1,
-              "productId": 1
-           } */
-        [HttpPost] //modelstate not working
+        [Authorize(Roles = "Customer")]
+        [HttpPost]
         [Consumes("application/json")]
         public IActionResult add([FromBody] Order order)
         {
-            if (!ModelState.IsValid)
+            if (ModelState.IsValid)
             {
-                return BadRequest(ModelState);
-            }
-            try
-            {
-                unit.OrdersRepository.add(order);
+                Order ord = new Order()
+                {
+                    UserId = order.UserId,
+                    PaymentId = order.PaymentId,
+                    ProductId = order.ProductId,
+                    Quantity = order.Quantity,
+                    IsCancel = false,
+                    OrderDate = DateTime.Now,
+                    Status = "Pending",
+
+                };
+                unit.OrdersRepository.add(ord);
                 unit.savechanges();
-                return Created("", order);
+                return Created("the order is created",ord);
             }
-            catch (Exception ex)
-            {
-                return StatusCode(500, "An error occurred while adding.. " + ex);
-            }
+            return BadRequest(ModelState);   
         }
 
-        /*
-         {
-          "orderId": 34,
-          "quantity": 0,
-          "status": "old",
-          "orderDate": "2024-05-01T22:05:49.075Z",
-          "isCancel": false,
-          "paymentId": 1,
-          "userId": 1,
-          "productId": 1
-         }
-        */
+        [Authorize(Roles = "Customer")]
         [HttpPut]
         [Consumes("application/json")]
-        public ActionResult update(Order order)
+        public IActionResult update(Order order)
         {
-            unit.OrdersRepository.update(order);
-            unit.savechanges();
-            return Ok();
-
+            if (ModelState.IsValid)
+            {
+                unit.OrdersRepository.update(order);
+                unit.savechanges();
+                return Ok(order);
+            }
+            return BadRequest(ModelState);
+            
         }
 
+        [Authorize]
         [HttpDelete]
-        public ActionResult delete(int id)
+        public IActionResult delete(int id)
         {
             unit.OrdersRepository.delete(id);
             unit.savechanges();
