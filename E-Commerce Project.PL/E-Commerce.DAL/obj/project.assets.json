@@ -4361,23 +4361,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Amr\\.nuget\\packages\\": {},
+    "C:\\Users\\hikal\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ITI\\Final Projects\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
       "projectName": "E-Commerce.DAL",
-      "projectPath": "D:\\ITI\\Final Projects\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
-      "packagesPath": "C:\\Users\\Amr\\.nuget\\packages\\",
-      "outputPath": "D:\\ITI\\Final Projects\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\obj\\",
+      "projectPath": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
+      "packagesPath": "C:\\Users\\hikal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Amr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hikal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4457,7 +4457,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
