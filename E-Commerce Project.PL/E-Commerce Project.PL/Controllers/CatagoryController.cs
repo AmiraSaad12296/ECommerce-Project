@@ -31,6 +31,7 @@ namespace E_Commerce_Project.PL.Controllers
                 string CatImageUrl = Url.Action("GetFile", "Catagory", new { name = c.CatId });
                 CatagoryDTO catto = new CatagoryDTO()
                 {
+                     CatId=c.CatId,
                     CatName = c.CatName,
                     CatImage = CatImageUrl,
                     CreatedDate = DateTime.Now,
