@@ -1,4 +1,5 @@
 ﻿using E_Commerce.DAL.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace E_Commerce.BL.Repository
 {
@@ -42,9 +43,14 @@ namespace E_Commerce.BL.Repository
         {
             return db.Users.FirstOrDefault(u => u.UserName == username);
         }
-        public User FindID(int userid)
+        public  Cart GetCartItem( int productId , int userid)
         {
-            return db.Users.FirstOrDefault(u => u.UserId == userid);
+            return  db.Carts.FirstOrDefault(c =>  c.ProductId == productId & c.UserId == userid);
+        }
+
+        public List<Cart> GetCartItemsByUserId(int userId)
+        {
+            return db.Carts.Where(c => c.UserId == userId).ToList();
         }
 
     }
