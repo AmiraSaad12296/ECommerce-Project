@@ -52,7 +52,7 @@ namespace E_Commerce_Project.PL.Controllers
 
 
         [HttpGet("{id}")]
-       
+        [Authorize]
         public ActionResult getbyid(int id)
         {
             Product p = unit.ProductsRepository.selectbyid(id);
@@ -77,7 +77,7 @@ namespace E_Commerce_Project.PL.Controllers
 
 
         [HttpPost]
-     
+        
         public ActionResult add(Product product)
         {
             unit.ProductsRepository.add(product);

@@ -17,8 +17,6 @@ namespace E_Commerce.BL.DTO
         public int UserId { get; set; }
 
         public DateTime CreatedDate { get; set; }
-        public string ProductName { get; set; }
-
-        public string UserName { get; set; }
+     
     }
 }

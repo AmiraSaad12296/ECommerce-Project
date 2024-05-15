@@ -3022,11 +3022,25 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
+    "C:\\Users\\Amira\\.nuget\\packages\\": {}
+=======
     "C:\\Users\\ELFAT7\\.nuget\\packages\\": {}
+>>>>>>> origin/main
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj",
+      "projectName": "E-Commerce.BL",
+      "projectPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj",
+      "packagesPath": "C:\\Users\\Amira\\.nuget\\packages\\",
+      "outputPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Amira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
       "projectUniqueName": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj",
       "projectName": "E-Commerce.BL",
       "projectPath": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj",
@@ -3035,6 +3049,7 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELFAT7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> origin/main
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3048,8 +3063,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+<<<<<<< HEAD
+            "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {
+              "projectPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj"
+=======
             "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {
               "projectPath": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj"
+>>>>>>> origin/main
             }
           }
         }
@@ -3084,7 +3104,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+=======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+>>>>>>> origin/main
       }
     }
   },

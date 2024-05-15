@@ -33,6 +33,7 @@ namespace E_Commerce_Project.PL.Controllers
                 {
                     CartProductDTO cartDTO = new CartProductDTO()
                     {
+                        Id=cart.ProductId,
                         Name = cart.Product.ProdName,
                         Description = cart.Product.ShortDesc,
                         Price = cart.Product.Price,
@@ -64,6 +65,8 @@ namespace E_Commerce_Project.PL.Controllers
 
             var cartDTOs = cartItems.Select(cart => new CartProductDTO
             {
+                UserId = cart.UserId,
+                Id = cart.ProductId,
                 Name = cart.Product.ProdName,
                 Description = cart.Product.ShortDesc,
                 Price = cart.Product.Price,
@@ -93,11 +96,7 @@ namespace E_Commerce_Project.PL.Controllers
                 // Check if the product is already in the cart
                 var cartItem = unit.CartsRepo.GetCartItem(productId , userId);
                 if (cartItem != null)
-                {
-                    // If the product is already in the cart, increment the quantity
-                    cartItem.Quantity++;
-                    unit.CartsRepo.update(cartItem);
-                unit.savechanges();
+                {                   
                       return Ok();
                   }
                 else
@@ -122,20 +121,117 @@ namespace E_Commerce_Project.PL.Controllers
                
             }
 
-        [HttpPut]
-        public IActionResult updateCart(Cart cart)
+        //[HttpPut]
+        //public IActionResult updateCart(CartDTO cartDto)
+        //{
+        //      var existingCart = unit.CartsRepo.selectbyid(cartDto.CartId);
+
+        //        if (existingCart == null)
+        //        {
+        //            return NotFound("Cart not found");
+        //        }
+
+        //        existingCart.Quantity = cartDto.Quantity;
+
+        //        unit.CartsRepo.update(existingCart);
+        //        unit.savechanges();
+
+        //        return Ok(existingCart);
+
+        //    }
+
+
+        [HttpPut("Decrease/{productId}/{userId}")]
+        public IActionResult DecreaseCartItemQuantity(int productId, int userId)
         {
-            unit.CartsRepo.update(cart);
-            unit.savechanges();
-            return Ok(cart);
-        }
-        [HttpDelete]
-        public IActionResult deleteCart(int id)
+         
+                var cartItem = unit.CartsRepo.GetCartItem(productId, userId);
+
+                if (cartItem == null)
+                {
+                    return NotFound("Cart item not found");
+                }
+
+                // Decrease the quantity by one
+                if (cartItem.Quantity > 1)
+                {
+                    cartItem.Quantity--;
+                }
+                else
+                {
+                    unit.CartsRepo.delete(cartItem.CartId);
+                }
+
+                unit.CartsRepo.update(cartItem);
+
+                
+                unit.savechanges();
+
+                return Ok();
+            }
+
+
+        [HttpPut("increase/{productId}/{userId}")]
+        public IActionResult IncreaseCartItemQuantity(int productId, int userId)
         {
             
-            unit.CartsRepo.delete(id);
+                var cartItem = unit.CartsRepo.GetCartItem(productId, userId);
+
+                if (cartItem == null)
+                {
+                    return NotFound("Cart item not found");
+                }
+
+                cartItem.Quantity++;
+
+                unit.CartsRepo.update(cartItem);
+
+                // Save the changes to the database
+                unit.savechanges();
+
+                return Ok();
+            }
+           
+        
+
+        [HttpDelete("{userId}")]
+        public IActionResult deleteCart(int userId)
+        {
+            var cartItems = unit.CartsRepo.GetCartItemsByUserId(userId);
+            if (cartItems == null || !cartItems.Any())
+            {
+                return NotFound("Cart items not found for the user.");
+            }
+
+            foreach (var cartItem in cartItems)
+            {
+                unit.CartsRepo.delete(cartItem.CartId); 
+            }
+
             unit.savechanges();
-            return Content("item is Deleted");
+
+            return Content("Cart items are deleted for the user.");
+        }
+
+        [HttpDelete("{productId}/{userId}")]
+
+        public IActionResult DeletefromCart(int productId, int userId)
+        {
+            var cartItems = unit.CartsRepo.GetCartItem(productId,userId);
+            if (cartItems == null)
+            {
+                return NotFound("Cart item not found");
+            }
+
+           else 
+            {
+                unit.CartsRepo.delete(cartItems.CartId);
+            }
+
+            unit.savechanges();
+
+            return Ok();
         }
     }
-}
+    }
+

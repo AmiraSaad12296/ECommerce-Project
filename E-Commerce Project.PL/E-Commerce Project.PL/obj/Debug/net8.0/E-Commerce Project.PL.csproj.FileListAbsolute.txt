@@ -1,30 +1,7 @@
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.csproj.AssemblyReference.cache
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.GeneratedMSBuildEditorConfig.editorconfig
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.AssemblyInfoInputs.cache
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.AssemblyInfo.cs
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.csproj.CoreCompileInputs.cache
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.MvcApplicationPartsAssemblyInfo.cs
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.MvcApplicationPartsAssemblyInfo.cache
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.sourcelink.json
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.build.json
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.development.json
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.E-Commerce Project.PL.Microsoft.AspNetCore.StaticWebAssets.props
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.build.E-Commerce Project.PL.props
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce Project.PL.props
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-Commerce Project.PL.props
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.pack.json
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\scopedcss\bundle\E-Commerce Project.PL.styles.css
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.dll
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\refint\E-Commerce Project.PL.dll
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.pdb
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\appsettings.Development.json
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\appsettings.json
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.staticwebassets.runtime.json
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.exe
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.deps.json
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.runtimeconfig.json
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.dll
-D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.pdb
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Azure.Core.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Azure.Identity.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\Castle.Core.dll
@@ -266,7 +243,30 @@ D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.DAL.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.BL.pdb
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce.DAL.pdb
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.csproj.AssemblyReference.cache
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.AssemblyInfoInputs.cache
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.AssemblyInfo.cs
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.csproj.CoreCompileInputs.cache
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.sourcelink.json
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.E-Commerce Project.PL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.build.E-Commerce Project.PL.props
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce Project.PL.props
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-Commerce Project.PL.props
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\scopedcss\bundle\E-Commerce Project.PL.styles.css
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commer.2420506F.Up2Date
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\refint\E-Commerce Project.PL.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.pdb
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.deps.json
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.runtimeconfig.json
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.dll
+D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\bin\Debug\net8.0\E-Commerce Project.PL.pdb
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.genruntimeconfig.cache
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\ref\E-Commerce Project.PL.dll
 D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\obj\Debug\net8.0\E-Commerce Project.PL.dll
