@@ -17,11 +17,19 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = E_Commerce_Project.PL
 build_property.RootNamespace = E_Commerce_Project.PL
+<<<<<<< HEAD
 build_property.ProjectDir = D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\
+=======
+build_property.ProjectDir = D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL\
+>>>>>>> origin/main
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL
+=======
+build_property.MSBuildProjectDirectory = D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce Project.PL
+>>>>>>> origin/main
 build_property._RazorSourceGeneratorDebug = 

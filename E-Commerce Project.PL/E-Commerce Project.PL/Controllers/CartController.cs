@@ -42,6 +42,8 @@ namespace E_Commerce_Project.PL.Controllers
                         Size = cart.Product.Size,
                         CompanyName = cart.Product.CompanyName,
                         Quantity = cart.Quantity,
+                        ProductId = cart.ProductId
+                        
 
                     };
 
@@ -73,6 +75,7 @@ namespace E_Commerce_Project.PL.Controllers
                 Size = cart.Product.Size,
                 CompanyName = cart.Product.CompanyName,
                 Quantity = cart.Quantity,
+                ProductId=cart.ProductId
             }).ToList();
 
 

@@ -86,29 +86,52 @@ namespace E_Commerce_Project.PL.Controllers
         }
 
 
-        [HttpDelete]
-       
-        public ActionResult Deleteid(int id)
-        {
+         [HttpDelete("{id}")]
 
-            unit.ProductsRepository.delete(id);
-            unit.savechanges();
-            return Ok();
-        }
+ public ActionResult Deleteid(int id)
+ {
+
+     unit.ProductsRepository.delete(id);
+     unit.savechanges();
+     return Ok();
+ }
+
 
 
         [HttpPut("{id}")]
-        [SwaggerOperation(Summary = "method to Update product", Description = "Update Product")]
+[SwaggerOperation(Summary = "Method to update product", Description = "Update Product")]
+public ActionResult Update(int id, [FromBody] ProductDTO productDTO)
+{
+    
+    var existingProduct = unit.ProductsRepository.selectbyid(id);
+    if (existingProduct == null)
+    {
+        return NotFound(); 
+    }
 
-        public ActionResult Update(Product product)
-        {
+    
+    existingProduct.ProdName = productDTO.Name;
+    existingProduct.ShortDesc = productDTO.Description;
+    existingProduct.Color = productDTO.Color;
+    existingProduct.Size = productDTO.Size;
+    existingProduct.Price = productDTO.Price;
+    existingProduct.CompanyName = productDTO.CompanyName;
 
-            unit.ProductsRepository.update(product);
+   
+    unit.ProductsRepository.update(existingProduct);
 
-            unit.savechanges();
-            return Ok();
+    try
+    {
+        unit.savechanges();
+    }
+    catch (Exception ex)
+    {
+        
+        return StatusCode(StatusCodes.Status500InternalServerError, $"Error updating product: {ex.Message}");
+    }
 
-        }
+    return Ok();
+}
 
 
 
