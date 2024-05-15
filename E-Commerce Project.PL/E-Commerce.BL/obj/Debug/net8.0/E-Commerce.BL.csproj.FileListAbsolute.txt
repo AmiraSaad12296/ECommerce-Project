@@ -14,3 +14,19 @@ D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\refint\E-Commerce.BL.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.pdb
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\ref\E-Commerce.BL.dll
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.dll
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\refint\E-Commerce.BL.dll
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.pdb
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.BL.deps.json
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.BL.dll
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.BL.pdb
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.DAL.dll
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.DAL.pdb
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.csproj.AssemblyReference.cache
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.AssemblyInfoInputs.cache
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.AssemblyInfo.cs
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.csproj.CoreCompileInputs.cache
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.sourcelink.json
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commer.CD690944.Up2Date
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\ref\E-Commerce.BL.dll

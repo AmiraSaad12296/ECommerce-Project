@@ -1,6 +1,7 @@
 ﻿using E_Commerce.BL.DTO;
 using E_Commerce.BL.UOW;
 using E_Commerce.DAL.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Swashbuckle.AspNetCore.Annotations;
 

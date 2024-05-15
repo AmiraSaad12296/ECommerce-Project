@@ -1,39 +1,20 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {}
+    "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {}
   },
   "projects": {
-    "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {
+    "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
+        "projectUniqueName": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
         "projectName": "E-Commerce.DAL",
-        "projectPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
-        "packagesPath": "C:\\Users\\Amira\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\obj\\",
-=======
-    "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
-        "projectName": "E-Commerce.DAL",
-        "projectPath": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
-        "packagesPath": "C:\\Users\\hikal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hikal\\OneDrive\\Desktop\\E-Ecommerce\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\obj\\",
->>>>>>> origin/main
+        "projectPath": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
+        "packagesPath": "C:\\Users\\ELFAT7\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-<<<<<<< HEAD
-          "C:\\Users\\Amira\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\hikal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> origin/main
+          "C:\\Users\\ELFAT7\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,11 +92,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
-=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
->>>>>>> origin/main
         }
       }
     }

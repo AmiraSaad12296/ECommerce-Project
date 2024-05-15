@@ -13,3 +13,18 @@ D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.pdb
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.genruntimeconfig.cache
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\ref\E-Commerce.DAL.dll
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.deps.json
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.runtimeconfig.json
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.dll
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.pdb
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.csproj.AssemblyReference.cache
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfoInputs.cache
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfo.cs
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.csproj.CoreCompileInputs.cache
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.sourcelink.json
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.dll
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\refint\E-Commerce.DAL.dll
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.pdb
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.genruntimeconfig.cache
+D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\ref\E-Commerce.DAL.dll
