@@ -1,6 +1,7 @@
 ﻿using E_Commerce.BL.DTO;
 using E_Commerce.BL.UOW;
 using E_Commerce.DAL.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Swashbuckle.AspNetCore.Annotations;
 
@@ -21,7 +22,7 @@ namespace E_Commerce_Project.PL.Controllers
 
 
         [HttpGet]
-       
+        [Authorize]
         public ActionResult GetAll()
         {
             List<Product> prod = unit.ProductsRepository.selectall();
@@ -51,7 +52,7 @@ namespace E_Commerce_Project.PL.Controllers
 
 
         [HttpGet("{id}")]
-       
+        [Authorize]
         public ActionResult getbyid(int id)
         {
             Product p = unit.ProductsRepository.selectbyid(id);
@@ -76,7 +77,7 @@ namespace E_Commerce_Project.PL.Controllers
 
 
         [HttpPost]
-     
+        
         public ActionResult add(Product product)
         {
             unit.ProductsRepository.add(product);

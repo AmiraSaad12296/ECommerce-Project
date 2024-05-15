@@ -32,8 +32,7 @@ namespace E_Commerce_Project.PL.Controllers
                         ProductId = wish.ProductId,
                         UserId = wish.UserId,
                         CreatedDate = wish.CreatedDate,
-                        ProductName = wish.Product.ProdName,
-                        UserName = wish.User.UserName
+                        
                     };
                     wishListDTOs.Add(wishListDTO);
                 }
@@ -41,38 +40,76 @@ namespace E_Commerce_Project.PL.Controllers
             }
 
         }
-        [HttpGet("{id}")]
-        public IActionResult getById(int id)
+        [HttpGet("{userId}")]
+        public IActionResult getById(int userId)
         {
-            WishList wishlist = unit.WishListRepository.selectbyid(id);
-            if (wishlist == null) return NotFound();
+            var wishItems = unit.WishListRepository.GetwishItemsByUserId(userId);
+
+            if (wishItems == null)
+            {
+                return NotFound();
+            }
+
+            var wishDTOs = wishItems.Select(wish => new WishProductDTO
+            {
+                UserId=wish.UserId,
+                Id =wish.Product.ProdId,
+                Name = wish.Product.ProdName,
+                Description = wish.Product.ShortDesc,
+                Price = wish.Product.Price,
+                ProductURL = Url.Action("GetFile", "product", new { name = wish.Product.ProdId }),
+                Color = wish.Product.Color,
+                Size = wish.Product.Size,
+                CompanyName = wish.Product.CompanyName,
+             
+            }).ToList();
+
+
+            return Ok(wishDTOs);
+        }
+
+
+
+        [HttpPost("add-to-wishlist/{productId}/{userId}")]
+        public IActionResult AddToWish(int productId, int userId)
+        {
+            var product = unit.ProductsRepository.selectbyid(productId);
+            if (product == null)
+            {
+                return NotFound("Product not found.");
+            }
+
+            // Check if the product is already in the wishlist
+            var wishItem = unit.WishListRepository.GetwishItem(productId, userId);
+            if (wishItem != null)
+            {
+                
+                return Ok("Product already exist");
+            }
             else
             {
-                WishListDTO wishList = new WishListDTO()
+                // If the product is not in the cart, add it 
+                var newwishItem = new WishList
                 {
-                    WishLstId = wishlist.WishLstId,
-                    ProductId = wishlist.ProductId,
-                    UserId = wishlist.UserId,
-                    CreatedDate = wishlist.CreatedDate,
-                    ProductName = wishlist.Product.ProdName,
-                    UserName = wishlist.User.UserName
+
+                    UserId = userId,
+                    ProductId = productId,
+                    CreatedDate = DateTime.Now
 
                 };
-                return Ok(wishList);
-            }
-        }
-        [HttpPost]
-        public IActionResult addWishList(WishList wish)
-        {
-            if (ModelState.IsValid)
-            {
-                unit.WishListRepository.add(wish);
-                unit.savechanges();
-                return Ok(wish);
+                unit.WishListRepository.add(newwishItem);
 
+
+                // Save changes to the database
+                unit.savechanges();
+
+                return Created();
             }
-            return BadRequest();
+
         }
+
+
+
         [HttpPut]
         public IActionResult updateWishList(WishList wish)
         {
@@ -81,13 +118,47 @@ namespace E_Commerce_Project.PL.Controllers
             return Ok(wish);
 
         }
-        [HttpDelete]
-        public IActionResult deleteWishList(int id)
-        {
-            unit.WishListRepository.delete(id);
-            unit.savechanges();
-            return Content("item is Deleted");
 
+
+        [HttpDelete("{userId}")]
+        public IActionResult deletewish(int userId)
+        {
+            var wishItems = unit.WishListRepository.GetwishItemsByUserId(userId);
+            if (wishItems == null)
+            {
+                return NotFound("Wished items not found for the user.");
+            }
+
+            foreach (var wishItem in wishItems)
+            {
+                unit.WishListRepository.delete(wishItem.WishLstId);
+            }
+
+            unit.savechanges();
+
+            return Content("Wished items are deleted for the user.");
+        }
+
+
+        [HttpDelete("{productId}/{userId}")]
+
+        public IActionResult DeletefromWish(int productId, int userId)
+        {
+            var WishItems = unit.WishListRepository.GetwishItem(productId, userId);
+            if (WishItems == null)
+            {
+                return NotFound("item not found");
+            }
+
+            else
+            {
+                unit.WishListRepository.delete(WishItems.WishLstId);
+            }
+
+            unit.savechanges();
+
+            return Ok();
         }
     }
 }
+

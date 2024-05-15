@@ -26,6 +26,7 @@ namespace E_Commerce_Project.PL.Controllers
             {
                 SubCatagoryDTO Scatto = new SubCatagoryDTO()
                 {
+                    SubCatId=s.SubCatId,
                     SubCatName = s.SubCatName,
                     CreatedDate = DateTime.Now,
                     IsActive = s.IsActive,
@@ -35,22 +36,26 @@ namespace E_Commerce_Project.PL.Controllers
             }
             return Ok(Scatdto);
         }
-        [HttpGet("{id}")]
-        public ActionResult getbyid(int id)
+        [HttpGet("{Subid}")]
+        public ActionResult getproductpersubbyid(int Subid)
         {
-            SubCategory s = unit.SubCatagoryRepository.selectbyid(id);
-            if (s == null) return NotFound();
-            else
-            {
-                SubCatagoryDTO Scatto = new SubCatagoryDTO()
+            List<Product> p = unit.ProductsRepository.GetProductBySubcatId(Subid);
+            if (p == null) return NotFound();
+            
+                var subcaDTO = p.Select(Product => new SubCatProdDTO
                 {
-                    SubCatId = s.SubCatId,
-                    SubCatName = s.SubCatName,
-                    CreatedDate = DateTime.Now,
-                    IsActive = s.IsActive,
-                };
-                return Ok(Scatto);
-            }
+                    Id = Product.ProdId,
+                    SubCatId =Product.SubCatId,
+                    Name = Product.ProdName,
+                    Description = Product.ShortDesc,
+                    Price = Product.Price,
+                    ProductURL = Url.Action("GetFile", "product", new { name = Product.ProdId }),
+                    Color = Product.Color,
+                    Size = Product.Size,
+                    CompanyName =Product.CompanyName,
+                }).ToList();
+            
+            return Ok(subcaDTO);
         }
 
 
