@@ -1,3 +1,21 @@
+<<<<<<< HEAD
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.BL.deps.json
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.BL.dll
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.BL.pdb
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.DAL.dll
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.DAL.pdb
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.csproj.AssemblyReference.cache
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.AssemblyInfoInputs.cache
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.AssemblyInfo.cs
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.csproj.CoreCompileInputs.cache
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.sourcelink.json
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.csproj.CopyComplete
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.dll
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\refint\E-Commerce.BL.dll
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.pdb
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\ref\E-Commerce.BL.dll
+=======
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.BL.deps.json
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.BL.dll
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.BL.pdb
@@ -30,3 +48,4 @@ D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\D
 D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.sourcelink.json
 D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\E-Commer.CD690944.Up2Date
 D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.BL\obj\Debug\net8.0\ref\E-Commerce.BL.dll
+>>>>>>> origin/main

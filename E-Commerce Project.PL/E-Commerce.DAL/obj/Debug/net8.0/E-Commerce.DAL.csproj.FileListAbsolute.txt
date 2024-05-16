@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.deps.json
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.runtimeconfig.json
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.dll
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.pdb
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.csproj.AssemblyReference.cache
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfoInputs.cache
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfo.cs
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.sourcelink.json
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.dll
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\refint\E-Commerce.DAL.dll
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.pdb
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.genruntimeconfig.cache
+C:\Users\workstation\Desktop\Ecommerce\Back\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\ref\E-Commerce.DAL.dll
+=======
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.deps.json
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.runtimeconfig.json
 D:\ITI Courses and Tasks\Alexandria\Angular\E-Commerce Project\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.dll
@@ -28,3 +45,4 @@ D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\
 D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.pdb
 D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.genruntimeconfig.cache
 D:\ITI\API\Final API\ECommerce-Project\E-Commerce Project.PL\E-Commerce.DAL\obj\Debug\net8.0\ref\E-Commerce.DAL.dll
+>>>>>>> origin/main

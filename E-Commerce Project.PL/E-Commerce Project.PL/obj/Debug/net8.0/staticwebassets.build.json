@@ -1,9 +1,13 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+  "Hash": "LJnzSvE4lKuZ1WD3FwOeW3lmlAagDvpLu85FCKYe4ok=",
+=======
+<<<<<<< HEAD
   "Hash": "K9rxDp5qczNi3joiwGG8ElxfXixfOMzqJLcBC8ci53k=",
 =======
   "Hash": "AIlGt89JMWKJ2b9UUSv/3J+Kry+j7dzQxnsnCQo3lPY=",
+>>>>>>> origin/main
 >>>>>>> origin/main
   "Source": "E-Commerce Project.PL",
   "BasePath": "_content/E-Commerce Project.PL",
@@ -15,9 +19,13 @@
       "Name": "E-Commerce Project.PL\\wwwroot",
       "Source": "E-Commerce Project.PL",
 <<<<<<< HEAD
+      "ContentRoot": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "ContentRoot": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
 =======
       "ContentRoot": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+>>>>>>> origin/main
 >>>>>>> origin/main
       "BasePath": "_content/E-Commerce Project.PL",
       "Pattern": "**"
@@ -25,6 +33,12 @@
   ],
   "Assets": [
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\Catagory\\1.jpg",
+      "SourceId": "E-Commerce Project.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+=======
 <<<<<<< HEAD
       "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\Catagory\\1.jpg",
       "SourceId": "E-Commerce Project.PL",
@@ -35,6 +49,7 @@
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+>>>>>>> origin/main
 >>>>>>> origin/main
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/Catagory/1.jpg",
@@ -52,6 +67,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\1.png",
+      "SourceId": "E-Commerce Project.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\1.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
@@ -61,6 +82,7 @@
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+>>>>>>> origin/main
 >>>>>>> origin/main
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/1.png",
@@ -78,6 +100,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\10.png",
+      "SourceId": "E-Commerce Project.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\10.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
@@ -87,6 +115,7 @@
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+>>>>>>> origin/main
 >>>>>>> origin/main
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/10.png",
@@ -104,6 +133,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\2.png",
+      "SourceId": "E-Commerce Project.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\2.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
@@ -113,6 +148,7 @@
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+>>>>>>> origin/main
 >>>>>>> origin/main
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/2.png",
@@ -130,6 +166,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\3.png",
+      "SourceId": "E-Commerce Project.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\3.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
@@ -139,6 +181,7 @@
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+>>>>>>> origin/main
 >>>>>>> origin/main
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/3.png",
@@ -156,6 +199,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\5.png",
+      "SourceId": "E-Commerce Project.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\5.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
@@ -165,6 +214,7 @@
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+>>>>>>> origin/main
 >>>>>>> origin/main
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/5.png",
@@ -182,6 +232,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\6.png",
+      "SourceId": "E-Commerce Project.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\6.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
@@ -191,6 +247,7 @@
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+>>>>>>> origin/main
 >>>>>>> origin/main
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/6.png",
@@ -208,6 +265,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\7.png",
+      "SourceId": "E-Commerce Project.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\7.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
@@ -217,6 +280,7 @@
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+>>>>>>> origin/main
 >>>>>>> origin/main
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/7.png",
@@ -234,6 +298,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\8.png",
+      "SourceId": "E-Commerce Project.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\8.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
@@ -243,6 +313,7 @@
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+>>>>>>> origin/main
 >>>>>>> origin/main
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/8.png",
@@ -260,6 +331,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\9.png",
+      "SourceId": "E-Commerce Project.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\9.png",
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
@@ -269,6 +346,7 @@
       "SourceId": "E-Commerce Project.PL",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\",
+>>>>>>> origin/main
 >>>>>>> origin/main
       "BasePath": "_content/E-Commerce Project.PL",
       "RelativePath": "image/products/9.png",
