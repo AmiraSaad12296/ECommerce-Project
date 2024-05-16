@@ -1,6 +1,7 @@
 {
   "Files": [
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\Catagory\\1.jpg",
       "PackagePath": "staticwebassets\\image\\Catagory\\1.jpg"
     },
@@ -38,6 +39,45 @@
     },
     {
       "Id": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\9.png",
+=======
+      "Id": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\Catagory\\1.jpg",
+      "PackagePath": "staticwebassets\\image\\Catagory\\1.jpg"
+    },
+    {
+      "Id": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\1.png",
+      "PackagePath": "staticwebassets\\image\\products\\1.png"
+    },
+    {
+      "Id": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\10.png",
+      "PackagePath": "staticwebassets\\image\\products\\10.png"
+    },
+    {
+      "Id": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\2.png",
+      "PackagePath": "staticwebassets\\image\\products\\2.png"
+    },
+    {
+      "Id": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\3.png",
+      "PackagePath": "staticwebassets\\image\\products\\3.png"
+    },
+    {
+      "Id": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\5.png",
+      "PackagePath": "staticwebassets\\image\\products\\5.png"
+    },
+    {
+      "Id": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\6.png",
+      "PackagePath": "staticwebassets\\image\\products\\6.png"
+    },
+    {
+      "Id": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\7.png",
+      "PackagePath": "staticwebassets\\image\\products\\7.png"
+    },
+    {
+      "Id": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\8.png",
+      "PackagePath": "staticwebassets\\image\\products\\8.png"
+    },
+    {
+      "Id": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\wwwroot\\image\\products\\9.png",
+>>>>>>> origin/main
       "PackagePath": "staticwebassets\\image\\products\\9.png"
     },
     {

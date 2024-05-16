@@ -65,8 +65,8 @@ namespace E_Commerce_Project.PL
                       TermsOfService = new Uri("http://tempuri.org/terms"),
                       Contact = new OpenApiContact
                       {
-                          Name = "Amira Saad",
-                          Email = " amiraSaad@gmail.com"
+                          Name = "Our Team",
+                          Email = " ITI@gmail.com"
                       }
                   }
                   );

@@ -1,4 +1,5 @@
 ﻿using E_Commerce.DAL.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace E_Commerce.BL.Repository
 {
@@ -32,7 +33,7 @@ namespace E_Commerce.BL.Repository
             db.Entry(entity).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
         }
 
-        public   void delete(int id)
+        public  void delete(int id)
         {
             TEntity obj = db.Set<TEntity>().Find(id);
             db.Set<TEntity>().Remove(obj);
@@ -42,10 +43,29 @@ namespace E_Commerce.BL.Repository
         {
             return db.Users.FirstOrDefault(u => u.UserName == username);
         }
-        public User FindID(int userid)
+        public  Cart GetCartItem( int productId , int userid)
         {
-            return db.Users.FirstOrDefault(u => u.UserId == userid);
+            return  db.Carts.FirstOrDefault(c =>  c.ProductId == productId & c.UserId == userid);
         }
 
+        public List<Cart> GetCartItemsByUserId(int userId)
+        {
+            return db.Carts.Where(c => c.UserId == userId).ToList();
+        }
+
+        public List<Product> GetProductBySubcatId(int SubcatId)
+        {
+            return db.Products.Where(c => c.SubCatId == SubcatId).ToList();
+        }
+
+        public WishList GetwishItem(int productId, int userid)
+        {
+            return db.WishLists.FirstOrDefault(c => c.ProductId == productId & c.UserId == userid);
+        }
+
+        public List<WishList> GetwishItemsByUserId(int userId)
+        {
+            return db.WishLists.Where(c => c.UserId == userId).ToList();
+        }
     }
 }

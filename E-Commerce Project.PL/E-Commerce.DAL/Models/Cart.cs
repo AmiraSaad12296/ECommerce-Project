@@ -21,7 +21,7 @@ public partial class Cart
     public int UserId { get; set; }
 
     [Column(TypeName = "datetime")]
-    public DateTime CreatedDate { get; set; }
+    public DateTime CreatedDate { get; set; } 
 
     [ForeignKey("ProductId")]
     [InverseProperty("Carts")]

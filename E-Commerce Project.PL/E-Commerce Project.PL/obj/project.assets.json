@@ -8521,11 +8521,20 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\workstation\\.nuget\\packages\\": {}
+=======
+<<<<<<< HEAD
+    "C:\\Users\\Amira\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\ELFAT7\\.nuget\\packages\\": {}
+>>>>>>> origin/main
+>>>>>>> origin/main
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\E-Commerce Project.PL.csproj",
       "projectName": "E-Commerce Project.PL",
       "projectPath": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\E-Commerce Project.PL.csproj",
@@ -8534,6 +8543,27 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\workstation\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\E-Commerce Project.PL.csproj",
+      "projectName": "E-Commerce Project.PL",
+      "projectPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\E-Commerce Project.PL.csproj",
+      "packagesPath": "C:\\Users\\Amira\\.nuget\\packages\\",
+      "outputPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Amira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\E-Commerce Project.PL.csproj",
+      "projectName": "E-Commerce Project.PL",
+      "projectPath": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\E-Commerce Project.PL.csproj",
+      "packagesPath": "C:\\Users\\ELFAT7\\.nuget\\packages\\",
+      "outputPath": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ELFAT7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> origin/main
+>>>>>>> origin/main
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8547,8 +8577,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj": {
               "projectPath": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj"
+=======
+<<<<<<< HEAD
+            "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj": {
+              "projectPath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj"
+=======
+            "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj": {
+              "projectPath": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj"
+>>>>>>> origin/main
+>>>>>>> origin/main
             }
           }
         }
@@ -8605,8 +8645,30 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
+=======
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce Project.PL\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+>>>>>>> origin/main
+>>>>>>> origin/main
 }
