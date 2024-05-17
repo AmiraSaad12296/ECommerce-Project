@@ -74,9 +74,7 @@ public partial class Product
     public virtual ICollection<ProductImage> ProductImages { get; set; } = new List<ProductImage>();
 
 
-    [InverseProperty("Product")]
-    public virtual ICollection<ProductReview> ProductReviews { get; set; } = new List<ProductReview>();
-
+   
     [ForeignKey("SubCatId")]
     [InverseProperty("Products")]
     public virtual SubCategory SubCat { get; set; }

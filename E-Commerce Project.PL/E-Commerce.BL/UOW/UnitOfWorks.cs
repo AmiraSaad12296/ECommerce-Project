@@ -9,7 +9,6 @@ namespace E_Commerce.BL.UOW
         GenericRepo<Product> productsRepository;
         GenericRepo<Cart> cartsRepo;
         GenericRepo<WishList> wishListRepository;
-        GenericRepo<ProductReview> productReviewRepository;
         GenericRepo<User> usersRepository;
         GenericRepo<Contact> contactsRepository;
         GenericRepo<Category> catagoriesRepository;
@@ -60,18 +59,7 @@ namespace E_Commerce.BL.UOW
                 return cartsRepo;
             }
         }
-        public GenericRepo<ProductReview> ProductReviewRepository
-        {
-            get
-            {
-                if (productReviewRepository == null)
-                {
-                    productReviewRepository = new GenericRepo<ProductReview>(db);
-
-                }
-                return productReviewRepository;
-            }
-        }
+      
 
         public GenericRepo<User> UsersRepository
         {

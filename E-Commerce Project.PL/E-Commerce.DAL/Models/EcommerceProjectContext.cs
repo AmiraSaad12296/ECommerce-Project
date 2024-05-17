@@ -31,8 +31,6 @@ public partial class EcommerceProjectContext : DbContext
 
     public virtual DbSet<ProductImage> ProductImages { get; set; }
 
-    public virtual DbSet<ProductReview> ProductReviews { get; set; }
-
     public virtual DbSet<Role> Roles { get; set; }
 
     public virtual DbSet<SubCategory> SubCategories { get; set; }
@@ -91,17 +89,7 @@ public partial class EcommerceProjectContext : DbContext
                 .HasConstraintName("FK_ProductImage_Product");
         });
 
-        modelBuilder.Entity<ProductReview>(entity =>
-        {
-            entity.HasOne(d => d.Product).WithMany(p => p.ProductReviews)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK_ProductReview_Product");
-
-            entity.HasOne(d => d.User).WithMany(p => p.ProductReviews)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK_ProductReview_User");
-        });
-
+    
         modelBuilder.Entity<Role>(entity =>
         {
             entity.Property(e => e.RoleId).ValueGeneratedNever();
