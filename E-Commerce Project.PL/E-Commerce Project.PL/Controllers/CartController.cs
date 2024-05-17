@@ -96,9 +96,9 @@ namespace E_Commerce_Project.PL.Controllers
                 // Check if the product is already in the cart
                 var cartItem = unit.CartsRepo.GetCartItem(productId , userId);
                 if (cartItem != null)
-                {                   
-                      return Ok();
-                  }
+                {
+                      return Ok("Product already exist");
+            }
                 else
                 {
                     // If the product is not in the cart, add it with quantity 1

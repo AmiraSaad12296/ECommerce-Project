@@ -31,7 +31,6 @@ namespace E_Commerce_Project.PL.Controllers
         }
 
         [HttpPost]
-        [Authorize(Roles ="Customer")]
         public ActionResult add(Contact C)
         {
             unit.ContactRepository.add(C);
