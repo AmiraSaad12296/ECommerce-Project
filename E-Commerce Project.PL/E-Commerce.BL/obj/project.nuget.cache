@@ -1,6 +1,8 @@
 {
   "version": 2,
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
   "dgSpecHash": "m1zCNhDo2ZQNa01LmyqoU2Aw5mOqcGUOowWQ+FBNzFcAdCudE9Xa/CvLAIIypbn+SrorERLcGugpq6q3Awm52g==",
   "success": true,
   "projectFilePath": "C:\\Users\\workstation\\Desktop\\Ecommerce\\Back\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj",
@@ -71,14 +73,11 @@
     "C:\\Users\\workstation\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
 =======
 <<<<<<< HEAD
-  "dgSpecHash": "rx/VUg0tJXNpLi/RlUi81eZSRdj1P0l8KcjS/bMdBhoLOgjNh/pTPj6f3uBWlwZmVVEDlXpWFwUywSOXLlIf3w==",
-=======
-  "dgSpecHash": "qihhB4sdFJl8L5nUZkcDQt66nMxDTDiuqLfjbnXL78G1WQAuzu5IuhR3MarAUZKJfvNi0pYoI3XAs/QhWbxRbw==",
 >>>>>>> origin/main
+  "dgSpecHash": "rx/VUg0tJXNpLi/RlUi81eZSRdj1P0l8KcjS/bMdBhoLOgjNh/pTPj6f3uBWlwZmVVEDlXpWFwUywSOXLlIf3w==",
   "success": true,
-  "projectFilePath": "D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj",
+  "projectFilePath": "D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\E-Commerce.BL.csproj",
   "expectedPackageFiles": [
-<<<<<<< HEAD
     "C:\\Users\\Amira\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Amira\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Amira\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
@@ -143,6 +142,8 @@
     "C:\\Users\\Amira\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\Amira\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Amira\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+<<<<<<< HEAD
+=======
 =======
     "C:\\Users\\ELFAT7\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ELFAT7\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -210,13 +211,14 @@
     "C:\\Users\\ELFAT7\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
 >>>>>>> origin/main
 >>>>>>> origin/main
+>>>>>>> origin/main
   ],
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\ITI\\API\\Final API\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+      "message": "Problem reading the cache file D:\\ITI Courses and Tasks\\Alexandria\\Angular\\E-Commerce Project\\ECommerce-Project\\E-Commerce Project.PL\\E-Commerce.BL\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
 }
