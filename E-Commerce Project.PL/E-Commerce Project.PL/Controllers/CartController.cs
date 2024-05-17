@@ -121,25 +121,6 @@ namespace E_Commerce_Project.PL.Controllers
                
             }
 
-        //[HttpPut]
-        //public IActionResult updateCart(CartDTO cartDto)
-        //{
-        //      var existingCart = unit.CartsRepo.selectbyid(cartDto.CartId);
-
-        //        if (existingCart == null)
-        //        {
-        //            return NotFound("Cart not found");
-        //        }
-
-        //        existingCart.Quantity = cartDto.Quantity;
-
-        //        unit.CartsRepo.update(existingCart);
-        //        unit.savechanges();
-
-        //        return Ok(existingCart);
-
-        //    }
-
 
         [HttpPut("Decrease/{productId}/{userId}")]
         public IActionResult DecreaseCartItemQuantity(int productId, int userId)
@@ -210,7 +191,7 @@ namespace E_Commerce_Project.PL.Controllers
 
             unit.savechanges();
 
-            return Content("Cart items are deleted for the user.");
+            return Ok();
         }
 
         [HttpDelete("{productId}/{userId}")]
