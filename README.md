@@ -2,7 +2,7 @@
 
 Mobily is a robust e-commerce platform for mobile phones and accessories. The backend is built using .NET Core API, providing a secure and efficient environment for managing products, orders, and user authentication.
 
-#Features
+*Features
 
 =Product Management
 
@@ -34,7 +34,7 @@ Error Handling: Robust error handling and logging for API requests.
 
 Database Integration: Support for relational databases using Entity Framework Core.
 
--Technologies Used
+*Technologies Used
 
 .NET Core: Framework for building the API.
 
